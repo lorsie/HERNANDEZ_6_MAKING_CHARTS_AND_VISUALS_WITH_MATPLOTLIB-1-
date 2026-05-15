@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Order_Status,Order_Date,Branch
+ORD0001,William Wells,Donut,Cake,3,221.99,665.97,Credit Card,Completed,2026-02-18,Batangas
+ORD0002,Robert Carrillo,Muffin,Dessert,1,438.26,438.26,Debit Card,Completed,2025-05-27,Cavite
+ORD0003,Dr. Deborah Rush,Muffin,Bread,4,454.23,1816.92,GCash,Cancelled,2026-05-01,Manila
+ORD0004,Rachel Morales,Brownie,Bread,4,469.11,1876.44,Credit Card,Pending,2025-09-02,Laguna
+ORD0005,Ronnie Haynes,Chocolate Cake,Bread,1,157.62,157.62,Cash,Cancelled,2025-08-16,Laguna
+ORD0006,Jessica Sparks,Banana Bread,Bread,5,215.81,1079.05,Debit Card,Cancelled,2025-07-20,Cavite
+ORD0007,Ryan Kirk,Chocolate Cake,Bread,7,484.79,3393.53,Credit Card,Completed,2025-12-22,Laguna
+ORD0008,Hannah Alvarez,Cookies,Cake,3,110.92,332.76,Debit Card,Pending,2026-05-03,Batangas
+ORD0009,Christopher Rowe,Brownie,Bread,9,381.83,3436.47,GCash,Pending,2026-04-25,Laguna
+ORD0010,Matthew Carpenter,Banana Bread,Pastry,7,225.61,1579.27,Debit Card,Completed,2025-06-01,Batangas
+ORD0011,Christopher Allen,Croissant,Dessert,2,143.78,287.56,Cash,Pending,2025-09-02,Laguna
+ORD0012,Melanie Hernandez,Baguette,Pastry,5,212.66,1063.3,GCash,Pending,2026-02-08,Laguna
+ORD0013,Leah Gonzalez,Brownie,Bread,8,282.8,2262.4,Debit Card,Completed,2025-10-27,Batangas
+ORD0014,Christopher Hampton,Donut,Cake,4,305.63,1222.52,Credit Card,Pending,2025-05-15,Cavite
+ORD0015,Bryan Potter,Donut,Pastry,3,450.86,1352.58,Debit Card,Completed,2025-11-07,Batangas
+ORD0016,Brandi Howard,Cookies,Pastry,5,242.0,1210.0,Cash,Cancelled,2025-09-16,Laguna
+ORD0017,Eric Wagner,Baguette,Bread,3,470.77,1412.31,Credit Card,Pending,2025-12-09,Manila
+ORD0018,Nicole King,Cheesecake,Bread,9,61.87,556.83,Credit Card,Cancelled,2025-05-23,Manila
+ORD0019,Sharon Lewis,Cupcake,Cake,4,214.81,859.24,GCash,Completed,2026-01-22,Manila
+ORD0020,Christina Hernandez,Cupcake,Dessert,3,135.5,406.5,Cash,Cancelled,2026-02-14,Laguna
+ORD0021,Sarah Clark,Baguette,Cake,4,251.93,1007.72,Debit Card,Completed,2026-02-21,Batangas
+ORD0022,Amy Payne,Cheesecake,Dessert,2,442.11,884.22,Debit Card,Cancelled,2026-02-28,Cavite
+ORD0023,Aaron Wang,Muffin,Bread,9,83.33,749.97,GCash,Cancelled,2026-05-12,Laguna
+ORD0024,Adrian Dixon,Muffin,Cake,9,80.14,721.26,GCash,Completed,2025-09-12,Batangas
+ORD0025,Virginia Mccullough,Croissant,Cake,4,351.21,1404.84,Credit Card,Cancelled,2026-01-29,Laguna
+ORD0026,James Garner,Donut,Dessert,2,74.13,148.26,Cash,Cancelled,2025-07-25,Batangas
+ORD0027,Elijah Solis,Muffin,Cake,6,457.52,2745.12,Cash,Pending,2025-09-09,Batangas
+ORD0028,Joshua Mckinney,Brownie,Dessert,8,397.25,3178.0,Debit Card,Cancelled,2026-01-31,Laguna
+ORD0029,Alicia Hensley,Banana Bread,Pastry,10,155.25,1552.5,Debit Card,Pending,2026-01-17,Laguna
+ORD0030,Bryan Leach,Banana Bread,Dessert,4,279.58,1118.32,Credit Card,Completed,2025-10-27,Laguna
+ORD0031,Elizabeth Mcdonald,Cupcake,Cake,1,219.24,219.24,Credit Card,Cancelled,2025-06-11,Batangas
+ORD0032,Roger Scott,Croissant,Pastry,6,230.2,1381.2,Debit Card,Pending,2026-02-03,Manila
+ORD0033,Antonio Martinez,Cookies,Dessert,6,116.92,701.52,Cash,Cancelled,2026-03-01,Batangas
+ORD0034,Cody Marsh,Muffin,Dessert,2,392.98,785.96,Cash,Completed,2026-04-19,Cavite
+ORD0035,Kevin Burgess,Cheesecake,Cake,3,360.62,1081.86,Cash,Pending,2026-03-30,Cavite
+ORD0036,Kenneth Ortiz,Baguette,Bread,5,381.41,1907.05,GCash,Pending,2025-11-11,Manila
+ORD0037,Michael Green,Chocolate Cake,Cake,7,359.5,2516.5,Debit Card,Pending,2026-03-20,Batangas
+ORD0038,Tracy Mcgee,Baguette,Bread,9,437.54,3937.86,Cash,Completed,2026-05-14,Cavite
+ORD0039,Stephanie Reyes,Chocolate Cake,Bread,10,422.38,4223.8,GCash,Cancelled,2025-05-26,Manila
+ORD0040,Barbara Crawford,Cheesecake,Dessert,1,241.48,241.48,GCash,Cancelled,2026-04-03,Batangas
+ORD0041,Linda Anderson,Croissant,Pastry,2,54.24,108.48,Cash,Completed,2025-12-23,Laguna
+ORD0042,Cole Ortega,Donut,Bread,5,370.88,1854.4,Debit Card,Completed,2026-01-04,Batangas
+ORD0043,Shannon Carter,Muffin,Pastry,9,167.54,1507.86,Credit Card,Cancelled,2025-12-29,Manila
+ORD0044,Maria Brooks,Brownie,Bread,3,480.86,1442.58,Credit Card,Cancelled,2025-10-05,Cavite
+ORD0045,Tammy Smith,Brownie,Cake,7,391.55,2740.85,Credit Card,Completed,2025-05-31,Laguna
+ORD0046,Gerald Small,Banana Bread,Pastry,5,218.14,1090.7,Debit Card,Pending,2025-08-30,Laguna
+ORD0047,Samantha Snyder,Baguette,Dessert,8,294.09,2352.72,Credit Card,Completed,2026-04-28,Laguna
+ORD0048,Laura Nelson,Brownie,Pastry,3,111.78,335.34,Debit Card,Completed,2026-04-17,Cavite
+ORD0049,Stephen Harrison,Cheesecake,Cake,6,328.5,1971.0,Credit Card,Pending,2025-10-18,Laguna
+ORD0050,Sabrina Garrett,Cupcake,Bread,6,247.56,1485.36,Debit Card,Cancelled,2025-06-06,Manila
+ORD0051,Kimberly Hansen,Cookies,Dessert,1,232.45,232.45,Debit Card,Completed,2025-08-30,Batangas
+ORD0052,David Howard,Baguette,Bread,3,451.95,1355.85,Debit Card,Cancelled,2025-12-25,Batangas
+ORD0053,Christopher Orozco,Cheesecake,Dessert,1,178.64,178.64,Debit Card,Pending,2025-06-26,Manila
+ORD0054,Dana Rodriguez,Cookies,Dessert,7,309.69,2167.83,Debit Card,Cancelled,2025-06-10,Batangas
+ORD0055,Teresa Steele,Brownie,Cake,6,138.76,832.56,Cash,Completed,2026-03-15,Laguna
+ORD0056,Jacqueline Fletcher,Donut,Cake,6,222.61,1335.66,GCash,Cancelled,2025-08-27,Manila
+ORD0057,Bob Blanchard,Croissant,Dessert,7,139.25,974.75,Debit Card,Pending,2025-09-04,Cavite
+ORD0058,Kyle Wallace,Chocolate Cake,Pastry,3,340.7,1022.1,Debit Card,Cancelled,2026-01-17,Cavite
+ORD0059,Sara Rhodes,Baguette,Bread,5,167.47,837.35,Credit Card,Completed,2025-06-25,Cavite
+ORD0060,Steven Rios,Baguette,Pastry,5,171.39,856.95,Credit Card,Completed,2026-02-13,Manila
+ORD0061,Andrea Brown,Muffin,Dessert,4,332.07,1328.28,Credit Card,Completed,2025-11-27,Laguna
+ORD0062,Clarence Bradley,Cupcake,Bread,9,376.37,3387.33,Cash,Completed,2025-12-01,Cavite
+ORD0063,Megan Hernandez,Baguette,Pastry,5,86.86,434.3,Debit Card,Completed,2026-02-27,Laguna
+ORD0064,Brooke Holloway,Cheesecake,Bread,3,300.04,900.12,Cash,Completed,2025-12-23,Laguna
+ORD0065,Ariana Branch,Cupcake,Bread,7,80.67,564.69,Debit Card,Pending,2025-12-02,Laguna
+ORD0066,Marc Stewart,Cupcake,Pastry,3,369.25,1107.75,Debit Card,Completed,2025-07-05,Batangas
+ORD0067,Tamara Foster,Croissant,Dessert,10,395.08,3950.8,Debit Card,Completed,2026-04-05,Manila
+ORD0068,Shannon Garcia,Brownie,Cake,1,365.55,365.55,Debit Card,Completed,2025-11-26,Manila
+ORD0069,Gary Williams,Baguette,Pastry,1,461.86,461.86,Debit Card,Pending,2025-06-09,Batangas
+ORD0070,Charles Bowers,Brownie,Dessert,4,209.3,837.2,Debit Card,Cancelled,2026-01-08,Cavite
+ORD0071,Stacey Jefferson,Cupcake,Pastry,9,298.62,2687.58,Credit Card,Pending,2026-03-02,Manila
+ORD0072,Lindsey Wheeler,Chocolate Cake,Pastry,7,59.85,418.95,Credit Card,Pending,2025-07-05,Cavite
+ORD0073,Misty Hunt,Baguette,Bread,5,435.84,2179.2,Cash,Pending,2025-08-22,Cavite
+ORD0074,Carla Smith,Croissant,Cake,5,190.74,953.7,Credit Card,Completed,2025-09-03,Cavite
+ORD0075,James Velazquez,Brownie,Bread,10,243.69,2436.9,Cash,Completed,2025-09-02,Laguna
+ORD0076,Kevin Foster DDS,Cookies,Bread,9,95.49,859.41,GCash,Cancelled,2026-02-22,Cavite
+ORD0077,Joshua Martin,Chocolate Cake,Cake,8,487.25,3898.0,GCash,Pending,2026-04-09,Batangas
+ORD0078,Joanna Harris,Croissant,Bread,8,188.65,1509.2,Debit Card,Completed,2026-04-01,Manila
+ORD0079,Roger Wilson,Banana Bread,Cake,1,55.35,55.35,Debit Card,Completed,2026-04-25,Laguna
+ORD0080,Nichole Fry,Muffin,Dessert,2,305.99,611.98,Debit Card,Completed,2025-10-30,Batangas
+ORD0081,Patrick Barnes,Brownie,Bread,9,118.8,1069.2,Credit Card,Completed,2025-10-16,Batangas
+ORD0082,Tiffany Banks,Baguette,Dessert,8,116.23,929.84,Cash,Completed,2026-01-22,Manila
+ORD0083,Mark Sherman MD,Donut,Pastry,7,469.35,3285.45,Debit Card,Pending,2025-10-11,Batangas
+ORD0084,Julie Williams,Banana Bread,Cake,10,442.4,4424.0,Debit Card,Completed,2026-04-21,Laguna
+ORD0085,Madison Webb,Donut,Cake,7,83.6,585.2,Debit Card,Cancelled,2025-07-29,Batangas
+ORD0086,Melissa Williams,Chocolate Cake,Cake,8,450.24,3601.92,GCash,Pending,2025-11-15,Laguna
+ORD0087,Paula Long,Cookies,Bread,3,402.33,1206.99,Credit Card,Pending,2025-09-22,Batangas
+ORD0088,Gregory Dominguez,Chocolate Cake,Pastry,3,232.71,698.13,GCash,Completed,2025-08-26,Batangas
+ORD0089,Mary Gardner,Cheesecake,Cake,4,369.61,1478.44,Credit Card,Completed,2025-11-22,Manila
+ORD0090,Christine Marshall,Cupcake,Bread,1,483.96,483.96,Credit Card,Pending,2026-01-04,Manila
+ORD0091,Patty Newman,Muffin,Dessert,5,253.84,1269.2,Cash,Completed,2025-09-16,Batangas
+ORD0092,Dawn White,Donut,Cake,6,138.8,832.8,Cash,Completed,2026-01-23,Cavite
+ORD0093,Adam Miller,Brownie,Dessert,4,106.32,425.28,Cash,Pending,2026-03-14,Laguna
+ORD0094,Lori Gray,Cookies,Cake,9,338.61,3047.49,GCash,Pending,2026-01-28,Laguna
+ORD0095,Ann Perry,Baguette,Bread,4,327.35,1309.4,Cash,Pending,2026-04-28,Cavite
+ORD0096,Timothy Russell,Cupcake,Pastry,2,302.42,604.84,Cash,Pending,2025-07-27,Laguna
+ORD0097,Christina Padilla,Muffin,Bread,7,180.7,1264.9,Credit Card,Cancelled,2025-10-07,Cavite
+ORD0098,Rodney Walton,Cheesecake,Dessert,6,353.18,2119.08,GCash,Completed,2025-08-25,Batangas
+ORD0099,Lauren Mcdaniel,Brownie,Pastry,4,60.26,241.04,Credit Card,Completed,2026-04-21,Laguna
+ORD0100,Tammy Wilkinson,Baguette,Pastry,7,300.19,2101.33,GCash,Completed,2025-07-29,Laguna
+ORD0101,Tim Kane,Baguette,Dessert,3,150.49,451.47,Debit Card,Pending,2026-03-14,Batangas
+ORD0102,Christian Hart,Muffin,Pastry,3,389.41,1168.23,Cash,Cancelled,2025-11-11,Manila
+ORD0103,Kristina Ruiz,Cookies,Dessert,2,70.09,140.18,Cash,Completed,2025-12-11,Cavite
+ORD0104,Lisa Lynch,Croissant,Dessert,3,197.22,591.66,Debit Card,Pending,2026-03-08,Batangas
+ORD0105,Susan Velasquez,Cookies,Bread,10,64.27,642.7,Credit Card,Pending,2025-12-04,Laguna
+ORD0106,Samantha Sharp,Muffin,Cake,6,189.65,1137.9,Cash,Cancelled,2025-08-22,Laguna
+ORD0107,Bradley Chavez,Chocolate Cake,Dessert,2,296.66,593.32,Cash,Pending,2025-12-05,Manila
+ORD0108,Nicole Thompson,Brownie,Bread,3,141.51,424.53,Credit Card,Completed,2026-05-10,Cavite
+ORD0109,Nicholas Padilla,Muffin,Dessert,10,281.59,2815.9,Credit Card,Cancelled,2026-03-30,Laguna
+ORD0110,Sara Robinson,Cupcake,Dessert,7,264.66,1852.62,Debit Card,Cancelled,2025-05-29,Cavite
+ORD0111,Rebecca Smith,Brownie,Pastry,3,97.88,293.64,GCash,Completed,2025-11-17,Manila
+ORD0112,Christopher Johnson,Brownie,Pastry,7,339.42,2375.94,Debit Card,Completed,2026-02-07,Laguna
+ORD0113,George Lopez,Chocolate Cake,Pastry,3,470.88,1412.64,Cash,Pending,2025-06-13,Batangas
+ORD0114,Heather Johnson,Muffin,Cake,9,220.85,1987.65,GCash,Completed,2025-07-20,Manila
+ORD0115,Lisa Edwards,Croissant,Cake,10,220.24,2202.4,Cash,Cancelled,2025-07-27,Manila
+ORD0116,Robin Patel,Chocolate Cake,Pastry,6,371.88,2231.28,Debit Card,Cancelled,2025-07-04,Manila
+ORD0117,Jennifer Smith,Baguette,Pastry,9,197.66,1778.94,Cash,Pending,2026-01-15,Batangas
+ORD0118,Tara Mueller,Brownie,Cake,2,389.13,778.26,Debit Card,Completed,2025-09-23,Laguna
+ORD0119,Kimberly Hobbs,Muffin,Bread,7,315.74,2210.18,GCash,Cancelled,2026-02-25,Cavite
+ORD0120,Matthew Soto,Cheesecake,Bread,6,392.49,2354.94,GCash,Pending,2026-02-24,Manila
+ORD0121,Eric Williams,Muffin,Bread,2,98.01,196.02,Credit Card,Pending,2026-02-02,Cavite
+ORD0122,Katherine Mcfarland,Banana Bread,Cake,9,306.44,2757.96,Cash,Pending,2025-12-21,Laguna
+ORD0123,David Baker,Cheesecake,Pastry,8,369.47,2955.76,GCash,Pending,2025-10-21,Laguna
+ORD0124,Christopher Savage,Croissant,Pastry,2,192.28,384.56,GCash,Completed,2026-03-09,Manila
+ORD0125,Lisa Mcdowell,Cupcake,Cake,3,178.62,535.86,Cash,Completed,2025-07-22,Manila
+ORD0126,Shelby King DVM,Chocolate Cake,Dessert,6,243.1,1458.6,Cash,Completed,2025-07-06,Cavite
+ORD0127,Cody Walker,Cookies,Dessert,10,234.43,2344.3,Credit Card,Cancelled,2025-12-24,Laguna
+ORD0128,Amanda Velasquez,Chocolate Cake,Dessert,3,461.68,1385.04,Debit Card,Cancelled,2025-11-29,Laguna
+ORD0129,Denise Cole,Baguette,Pastry,6,463.31,2779.86,GCash,Cancelled,2025-12-01,Batangas
+ORD0130,Sergio Pearson,Cupcake,Cake,5,464.6,2323.0,Cash,Completed,2025-06-11,Laguna
+ORD0131,Cole Davis,Baguette,Cake,5,343.2,1716.0,Debit Card,Completed,2026-03-26,Batangas
+ORD0132,Adrian Bailey,Donut,Cake,6,268.49,1610.94,GCash,Completed,2026-01-15,Laguna
+ORD0133,Michael Williams,Cupcake,Dessert,6,338.66,2031.96,GCash,Cancelled,2025-08-10,Laguna
+ORD0134,John Scott,Banana Bread,Dessert,7,141.12,987.84,GCash,Cancelled,2025-07-08,Laguna
+ORD0135,James Harvey,Brownie,Cake,8,445.32,3562.56,Credit Card,Completed,2025-11-13,Laguna
+ORD0136,Joshua Hawkins,Baguette,Dessert,2,279.7,559.4,Credit Card,Completed,2026-03-30,Laguna
+ORD0137,Marie Nichols,Cookies,Cake,5,429.92,2149.6,Credit Card,Completed,2025-10-07,Laguna
+ORD0138,Kenneth Merritt,Cookies,Cake,1,495.32,495.32,Debit Card,Pending,2026-04-12,Manila
+ORD0139,Yolanda Rhodes,Donut,Cake,10,399.6,3996.0,Debit Card,Completed,2026-05-02,Batangas
+ORD0140,Michael Miller,Baguette,Pastry,4,355.15,1420.6,Cash,Cancelled,2026-04-18,Cavite
+ORD0141,Christopher Delgado,Cookies,Bread,10,169.78,1697.8,GCash,Cancelled,2026-04-25,Manila
+ORD0142,Terry Jimenez,Baguette,Cake,4,488.35,1953.4,GCash,Cancelled,2025-05-27,Cavite
+ORD0143,Heather Rodriguez,Brownie,Cake,2,425.57,851.14,Debit Card,Cancelled,2025-08-01,Cavite
+ORD0144,Brian Mccoy,Baguette,Dessert,6,397.76,2386.56,Credit Card,Cancelled,2025-05-29,Manila
+ORD0145,Susan Owen,Cheesecake,Pastry,10,198.26,1982.6,GCash,Cancelled,2026-04-29,Manila
+ORD0146,Jason Cole,Donut,Dessert,4,324.85,1299.4,Cash,Cancelled,2026-03-27,Laguna
+ORD0147,Laura Walker,Cheesecake,Dessert,3,337.45,1012.35,Cash,Pending,2026-01-18,Laguna
+ORD0148,Samuel Miller,Baguette,Pastry,1,472.8,472.8,Credit Card,Cancelled,2025-11-28,Cavite
+ORD0149,Garrett Ward,Banana Bread,Dessert,3,491.01,1473.03,GCash,Completed,2026-04-29,Manila
+ORD0150,Amanda Smith,Croissant,Cake,10,57.67,576.7,GCash,Pending,2025-07-23,Batangas
+ORD0151,Cynthia Jones,Muffin,Cake,2,220.94,441.88,GCash,Completed,2025-09-19,Batangas
+ORD0152,Derek Frost,Baguette,Dessert,2,209.47,418.94,Credit Card,Cancelled,2025-12-30,Cavite
+ORD0153,Ashley Silva,Muffin,Cake,10,297.12,2971.2,Debit Card,Pending,2025-10-24,Manila
+ORD0154,Vicki Morgan,Croissant,Bread,1,395.3,395.3,Debit Card,Pending,2025-09-02,Batangas
+ORD0155,William French,Cheesecake,Bread,2,107.19,214.38,Credit Card,Cancelled,2025-08-12,Manila
+ORD0156,Carlos Smith,Chocolate Cake,Bread,6,392.19,2353.14,Credit Card,Pending,2025-06-15,Batangas
+ORD0157,Ronald Bradley,Croissant,Cake,8,99.98,799.84,Credit Card,Cancelled,2026-01-17,Batangas
+ORD0158,Jeffery Miles,Croissant,Pastry,8,238.72,1909.76,Credit Card,Cancelled,2026-03-15,Laguna
+ORD0159,David Massey,Cheesecake,Cake,7,70.56,493.92,Cash,Cancelled,2025-12-14,Batangas
+ORD0160,Jennifer Martin,Banana Bread,Cake,8,149.02,1192.16,Cash,Pending,2026-01-03,Cavite
+ORD0161,Kevin Gonzales,Cookies,Bread,6,238.8,1432.8,Debit Card,Completed,2025-10-17,Cavite
+ORD0162,Michael Shaffer,Baguette,Bread,6,174.23,1045.38,Debit Card,Cancelled,2026-04-18,Cavite
+ORD0163,Meagan Morris,Banana Bread,Bread,2,494.38,988.76,Debit Card,Completed,2025-12-18,Laguna
+ORD0164,Holly Rogers,Muffin,Pastry,3,441.41,1324.23,Credit Card,Pending,2025-06-11,Laguna
+ORD0165,Scott Sanchez,Cheesecake,Bread,8,292.05,2336.4,Credit Card,Completed,2025-05-28,Batangas
+ORD0166,Valerie Vang,Muffin,Bread,5,147.88,739.4,Credit Card,Pending,2025-10-06,Batangas
+ORD0167,Thomas Burns,Cupcake,Bread,3,140.49,421.47,Debit Card,Pending,2025-08-31,Cavite
+ORD0168,Theresa Alvarado,Muffin,Bread,3,222.44,667.32,Cash,Pending,2025-05-30,Laguna
+ORD0169,Shirley Trujillo,Muffin,Pastry,10,209.13,2091.3,Credit Card,Cancelled,2025-10-25,Laguna
+ORD0170,Emily Hunter,Chocolate Cake,Cake,1,179.0,179.0,Cash,Cancelled,2026-03-10,Laguna
+ORD0171,Kendra Wilkerson,Croissant,Cake,9,100.51,904.59,Debit Card,Pending,2025-07-28,Cavite
+ORD0172,Willie Jordan Jr.,Croissant,Bread,5,69.0,345.0,Credit Card,Completed,2025-09-26,Batangas
+ORD0173,Timothy Smith,Cookies,Pastry,10,444.63,4446.3,Credit Card,Cancelled,2025-06-03,Batangas
+ORD0174,Destiny Miller,Baguette,Pastry,8,429.81,3438.48,GCash,Pending,2026-03-24,Cavite
+ORD0175,Anthony Meyers,Muffin,Bread,5,388.1,1940.5,GCash,Completed,2026-02-18,Cavite
+ORD0176,Jesse Mayer,Banana Bread,Dessert,5,221.57,1107.85,Credit Card,Cancelled,2025-07-31,Manila
+ORD0177,Ralph Jimenez,Banana Bread,Bread,2,145.93,291.86,Cash,Cancelled,2025-06-17,Cavite
+ORD0178,Matthew Martinez,Baguette,Bread,4,412.74,1650.96,Debit Card,Completed,2025-08-26,Manila
+ORD0179,Robert Anderson,Muffin,Cake,1,392.26,392.26,Credit Card,Completed,2025-11-28,Batangas
+ORD0180,George Ellis,Banana Bread,Bread,6,113.91,683.46,Credit Card,Pending,2025-10-25,Manila
+ORD0181,Crystal Gay,Baguette,Cake,3,384.34,1153.02,Credit Card,Completed,2025-11-13,Batangas
+ORD0182,Dustin Farmer,Cheesecake,Bread,6,391.25,2347.5,Credit Card,Pending,2026-02-04,Batangas
+ORD0183,Elizabeth Sampson,Chocolate Cake,Pastry,10,339.81,3398.1,Cash,Pending,2025-08-07,Laguna
+ORD0184,Samantha Bautista,Brownie,Dessert,2,305.62,611.24,Cash,Completed,2026-04-23,Manila
+ORD0185,Chelsey Figueroa MD,Brownie,Dessert,4,488.36,1953.44,Cash,Completed,2025-07-19,Batangas
+ORD0186,Marie Gray,Baguette,Pastry,7,174.68,1222.76,GCash,Completed,2026-03-10,Cavite
+ORD0187,Catherine Hall,Cupcake,Dessert,5,225.74,1128.7,Credit Card,Pending,2025-10-07,Batangas
+ORD0188,Joseph Mendoza,Croissant,Dessert,10,113.84,1138.4,Cash,Completed,2025-08-12,Manila
+ORD0189,Diane Robertson,Cupcake,Dessert,5,205.85,1029.25,Debit Card,Cancelled,2026-05-04,Laguna
+ORD0190,Shelby Matthews,Croissant,Dessert,1,297.74,297.74,Credit Card,Cancelled,2026-02-12,Cavite
+ORD0191,Jeremy Mccullough,Muffin,Dessert,7,384.3,2690.1,GCash,Completed,2025-10-20,Cavite
+ORD0192,Lucas Thompson,Muffin,Pastry,10,60.4,604.0,Cash,Completed,2025-11-18,Laguna
+ORD0193,Mr. Christopher Garcia,Donut,Bread,4,299.1,1196.4,GCash,Cancelled,2025-06-08,Batangas
+ORD0194,Mary Garrett,Cheesecake,Cake,2,135.08,270.16,Debit Card,Completed,2026-02-25,Manila
+ORD0195,Kathy Pierce,Banana Bread,Dessert,3,156.01,468.03,Credit Card,Pending,2025-07-21,Cavite
+ORD0196,Douglas Dickson,Donut,Cake,2,113.35,226.7,Cash,Pending,2026-02-25,Cavite
+ORD0197,William Brown,Banana Bread,Cake,8,311.18,2489.44,GCash,Pending,2026-03-30,Cavite
+ORD0198,Timothy Ortiz,Brownie,Pastry,9,234.02,2106.18,Credit Card,Cancelled,2026-01-20,Cavite
+ORD0199,Benjamin West,Brownie,Pastry,9,214.18,1927.62,GCash,Cancelled,2025-06-14,Laguna
+ORD0200,John Mcintosh,Baguette,Dessert,3,401.91,1205.73,Credit Card,Pending,2025-12-23,Laguna
+ORD0201,Patricia Lopez,Cupcake,Dessert,10,306.61,3066.1,GCash,Cancelled,2025-07-21,Manila
+ORD0202,Danielle Flores,Banana Bread,Bread,5,229.75,1148.75,Credit Card,Completed,2026-03-05,Batangas
+ORD0203,Gregory Bray,Cheesecake,Pastry,1,324.28,324.28,Credit Card,Completed,2025-10-03,Cavite
+ORD0204,Kyle Wiley,Baguette,Dessert,5,469.98,2349.9,Cash,Completed,2026-01-12,Laguna
+ORD0205,Ronald Lane,Cupcake,Pastry,10,226.32,2263.2,Cash,Pending,2026-04-10,Laguna
+ORD0206,Rebecca Taylor,Croissant,Bread,8,120.95,967.6,Debit Card,Pending,2025-06-07,Manila
+ORD0207,Yolanda Romero,Cookies,Bread,4,137.66,550.64,Debit Card,Cancelled,2026-03-01,Manila
+ORD0208,Carl Thornton,Baguette,Dessert,1,473.95,473.95,Cash,Pending,2026-02-28,Manila
+ORD0209,Rachel Yates,Cheesecake,Cake,3,438.31,1314.93,GCash,Cancelled,2026-05-04,Laguna
+ORD0210,Carlos Cox,Banana Bread,Pastry,6,343.14,2058.84,GCash,Pending,2025-12-17,Manila
+ORD0211,April Fisher,Cupcake,Pastry,6,492.57,2955.42,Debit Card,Cancelled,2026-02-17,Manila
+ORD0212,Timothy Curry,Banana Bread,Dessert,8,216.94,1735.52,Cash,Cancelled,2025-11-12,Manila
+ORD0213,Stephanie Andrade,Donut,Bread,8,362.75,2902.0,Debit Card,Pending,2026-04-12,Laguna
+ORD0214,Lori Roberts,Donut,Bread,7,209.33,1465.31,Debit Card,Cancelled,2025-09-04,Cavite
+ORD0215,Angela Mcbride,Baguette,Dessert,10,53.52,535.2,Cash,Completed,2025-08-28,Manila
+ORD0216,Aaron Vaughan,Chocolate Cake,Pastry,10,380.71,3807.1,Credit Card,Cancelled,2025-10-30,Manila
+ORD0217,Amanda Leach,Donut,Dessert,3,487.85,1463.55,Credit Card,Pending,2026-03-29,Laguna
+ORD0218,Elijah Manning,Chocolate Cake,Dessert,8,367.91,2943.28,GCash,Completed,2025-06-03,Laguna
+ORD0219,Peter Estrada,Chocolate Cake,Bread,3,317.7,953.1,GCash,Cancelled,2025-07-27,Manila
+ORD0220,Michele Murray,Donut,Cake,2,193.65,387.3,Credit Card,Pending,2025-09-15,Cavite
+ORD0221,Kim Hansen,Croissant,Bread,7,316.93,2218.51,GCash,Cancelled,2026-04-30,Manila
+ORD0222,Courtney Smith,Cookies,Cake,9,91.05,819.45,GCash,Pending,2026-01-26,Manila
+ORD0223,Kyle Burke,Chocolate Cake,Dessert,1,350.11,350.11,Cash,Completed,2026-03-03,Cavite
+ORD0224,Jade Olsen,Croissant,Dessert,8,468.66,3749.28,Credit Card,Pending,2025-08-06,Manila
+ORD0225,Leslie Petersen,Muffin,Pastry,4,382.77,1531.08,Cash,Cancelled,2025-06-12,Manila
+ORD0226,Vincent Ramirez,Cheesecake,Pastry,3,495.46,1486.38,Credit Card,Cancelled,2025-12-02,Batangas
+ORD0227,Tammy Brown,Chocolate Cake,Bread,10,437.76,4377.6,Credit Card,Pending,2025-12-02,Laguna
+ORD0228,Anthony Burns,Cookies,Bread,4,84.82,339.28,Credit Card,Pending,2026-01-30,Batangas
+ORD0229,Larry Davenport,Cupcake,Dessert,1,168.64,168.64,GCash,Pending,2025-09-09,Cavite
+ORD0230,Kayla Stewart,Croissant,Bread,7,105.98,741.86,Credit Card,Pending,2025-08-16,Laguna
+ORD0231,Scott Ramirez,Brownie,Dessert,5,156.32,781.6,Credit Card,Completed,2025-10-01,Manila
+ORD0232,William Guerrero,Cookies,Pastry,8,185.75,1486.0,Credit Card,Completed,2026-03-18,Manila
+ORD0233,Mr. Caleb Wood,Brownie,Pastry,7,70.17,491.19,Credit Card,Cancelled,2025-11-24,Batangas
+ORD0234,Jacqueline Dillon,Brownie,Pastry,6,269.86,1619.16,Credit Card,Cancelled,2026-01-14,Batangas
+ORD0235,Brittany Gonzalez,Muffin,Pastry,1,326.34,326.34,Cash,Pending,2026-03-04,Laguna
+ORD0236,Jessica Miranda,Cupcake,Pastry,6,450.6,2703.6,GCash,Pending,2025-06-11,Manila
+ORD0237,Wendy Stevenson,Donut,Bread,6,128.41,770.46,Credit Card,Pending,2025-09-24,Laguna
+ORD0238,Robert Anderson,Baguette,Pastry,5,453.55,2267.75,Debit Card,Cancelled,2025-07-21,Laguna
+ORD0239,Robert Thompson,Banana Bread,Dessert,3,256.15,768.45,Credit Card,Cancelled,2025-06-16,Batangas
+ORD0240,Donna Jordan,Donut,Dessert,9,98.82,889.38,GCash,Pending,2025-11-07,Manila
+ORD0241,Anthony Hale,Cupcake,Cake,3,302.44,907.32,Credit Card,Cancelled,2025-11-16,Manila
+ORD0242,Helen Dickerson,Muffin,Dessert,10,241.78,2417.8,Credit Card,Completed,2025-07-30,Laguna
+ORD0243,Jamie Anderson DDS,Croissant,Bread,5,160.34,801.7,Credit Card,Pending,2025-10-24,Manila
+ORD0244,Caroline Richards,Banana Bread,Dessert,5,311.22,1556.1,Cash,Pending,2025-09-25,Laguna
+ORD0245,Juan Green,Banana Bread,Cake,3,390.24,1170.72,Debit Card,Pending,2025-05-20,Cavite
+ORD0246,Timothy Montes,Cookies,Pastry,6,54.13,324.78,Cash,Pending,2026-05-02,Batangas
+ORD0247,Charles Walker,Cupcake,Dessert,7,207.02,1449.14,GCash,Cancelled,2025-11-21,Manila
+ORD0248,Tammy Barber,Brownie,Cake,5,138.4,692.0,GCash,Cancelled,2026-02-20,Manila
+ORD0249,Lisa Graham,Cookies,Cake,4,270.0,1080.0,Credit Card,Pending,2025-05-28,Manila
+ORD0250,Mandy Rogers,Baguette,Dessert,5,470.99,2354.95,Cash,Completed,2026-03-08,Manila
+ORD0251,Jessica Odonnell,Chocolate Cake,Dessert,3,125.96,377.88,Debit Card,Cancelled,2025-05-15,Laguna
+ORD0252,Cody Palmer,Croissant,Cake,1,369.84,369.84,GCash,Completed,2026-03-08,Cavite
+ORD0253,Jessica Mckinney,Baguette,Cake,8,134.89,1079.12,Debit Card,Completed,2025-12-30,Cavite
+ORD0254,Victoria Gonzalez,Cheesecake,Pastry,8,94.84,758.72,Cash,Cancelled,2025-09-09,Manila
+ORD0255,Elizabeth Klein,Baguette,Dessert,2,54.83,109.66,Debit Card,Completed,2025-09-29,Laguna
+ORD0256,Kelly Fritz,Brownie,Cake,1,451.76,451.76,Debit Card,Cancelled,2025-10-10,Laguna
+ORD0257,Michael Turner,Chocolate Cake,Dessert,2,482.28,964.56,Credit Card,Cancelled,2025-08-03,Laguna
+ORD0258,Daniel Sutton,Cupcake,Cake,1,364.41,364.41,Credit Card,Cancelled,2026-02-25,Cavite
+ORD0259,John Vega,Banana Bread,Pastry,5,112.95,564.75,GCash,Completed,2026-01-28,Manila
+ORD0260,Lindsay Stephens,Chocolate Cake,Pastry,10,373.1,3731.0,Cash,Cancelled,2025-08-16,Laguna
+ORD0261,Erika Pena,Croissant,Pastry,5,315.04,1575.2,GCash,Cancelled,2025-07-03,Cavite
+ORD0262,Linda Wright,Banana Bread,Cake,9,229.22,2062.98,Cash,Completed,2026-01-30,Cavite
+ORD0263,Jennifer Stein,Donut,Bread,7,171.59,1201.13,GCash,Cancelled,2025-07-03,Manila
+ORD0264,Samuel Velazquez,Baguette,Dessert,8,251.56,2012.48,Credit Card,Completed,2025-12-17,Batangas
+ORD0265,Shannon Lloyd,Donut,Bread,7,131.84,922.88,Credit Card,Cancelled,2025-09-10,Batangas
+ORD0266,Joe Cruz,Baguette,Dessert,5,409.29,2046.45,GCash,Completed,2026-03-29,Manila
+ORD0267,Cheryl Boyer,Cheesecake,Pastry,9,237.86,2140.74,Cash,Cancelled,2025-06-04,Batangas
+ORD0268,Donna Mccullough,Chocolate Cake,Cake,4,396.58,1586.32,Cash,Pending,2025-07-13,Manila
+ORD0269,Johnny Baker,Chocolate Cake,Dessert,3,210.04,630.12,Cash,Completed,2025-09-03,Laguna
+ORD0270,Gregory Mays,Donut,Pastry,10,496.72,4967.2,Cash,Cancelled,2026-04-19,Cavite
+ORD0271,Ms. Erika Singh MD,Croissant,Bread,4,106.87,427.48,Credit Card,Completed,2025-07-26,Batangas
+ORD0272,Taylor Burns,Muffin,Bread,4,254.96,1019.84,GCash,Completed,2026-03-23,Laguna
+ORD0273,Raymond Fox,Baguette,Cake,4,434.25,1737.0,Cash,Completed,2026-02-22,Batangas
+ORD0274,Lindsay Cunningham,Brownie,Pastry,3,357.47,1072.41,GCash,Cancelled,2025-07-10,Cavite
+ORD0275,Misty Chandler,Croissant,Cake,8,437.24,3497.92,Credit Card,Completed,2025-09-23,Cavite
+ORD0276,Juan Reynolds,Brownie,Bread,3,81.7,245.1,Debit Card,Completed,2025-09-07,Laguna
+ORD0277,Chelsea Mendoza,Baguette,Dessert,7,400.57,2803.99,Credit Card,Cancelled,2025-10-03,Cavite
+ORD0278,Jeffrey Cox,Cupcake,Dessert,10,169.9,1699.0,Credit Card,Pending,2025-11-10,Cavite
+ORD0279,David Roberson,Muffin,Bread,4,464.32,1857.28,Credit Card,Pending,2025-11-03,Batangas
+ORD0280,Edward Wilkinson,Cheesecake,Dessert,4,384.56,1538.24,Debit Card,Cancelled,2025-12-12,Batangas
+ORD0281,Mr. Daniel Garcia,Muffin,Bread,4,63.11,252.44,Cash,Pending,2026-02-09,Laguna
+ORD0282,Wendy Tucker,Baguette,Dessert,1,106.51,106.51,Credit Card,Pending,2026-02-10,Laguna
+ORD0283,Calvin Nelson,Muffin,Pastry,7,213.51,1494.57,Credit Card,Cancelled,2026-01-01,Batangas
+ORD0284,Anthony Brewer,Cookies,Pastry,2,403.21,806.42,Cash,Completed,2025-12-02,Batangas
+ORD0285,Ronald Henry,Cupcake,Dessert,6,217.04,1302.24,GCash,Pending,2025-12-10,Manila
+ORD0286,Jason White,Brownie,Pastry,5,314.31,1571.55,GCash,Pending,2025-09-22,Batangas
+ORD0287,Vicki Powers,Brownie,Pastry,9,262.4,2361.6,Debit Card,Completed,2025-10-20,Cavite
+ORD0288,Fred Thompson,Cookies,Pastry,3,477.27,1431.81,GCash,Completed,2025-10-01,Batangas
+ORD0289,Veronica Davis,Cookies,Bread,7,332.02,2324.14,Cash,Cancelled,2026-04-16,Laguna
+ORD0290,Brenda Sharp,Cheesecake,Dessert,3,310.64,931.92,Cash,Cancelled,2026-04-24,Batangas
+ORD0291,Crystal Blackwell,Baguette,Cake,1,299.19,299.19,GCash,Pending,2026-02-21,Manila
+ORD0292,Paul Barry,Baguette,Pastry,7,345.67,2419.69,GCash,Pending,2025-07-26,Laguna
+ORD0293,Catherine Cameron,Brownie,Cake,7,159.1,1113.7,Debit Card,Cancelled,2025-07-21,Manila
+ORD0294,Alexander Hughes,Cupcake,Bread,1,407.95,407.95,Cash,Completed,2026-03-06,Batangas
+ORD0295,Frank Taylor,Muffin,Dessert,5,258.23,1291.15,GCash,Cancelled,2026-04-22,Cavite
+ORD0296,Gabriela Hall,Baguette,Pastry,9,443.66,3992.94,Cash,Completed,2026-04-21,Cavite
+ORD0297,Stephanie Alvarado,Banana Bread,Cake,10,333.01,3330.1,Debit Card,Pending,2026-04-18,Manila
+ORD0298,Anthony Richardson,Banana Bread,Bread,10,228.4,2284.0,Cash,Cancelled,2025-11-23,Cavite
+ORD0299,Emily Simmons,Brownie,Pastry,9,287.0,2583.0,GCash,Pending,2025-09-28,Laguna
+ORD0300,Annette Hall,Donut,Cake,7,108.9,762.3,Debit Card,Completed,2025-07-13,Cavite
+ORD0301,Jasmin Whitaker,Donut,Bread,2,450.0,900.0,Cash,Pending,2025-12-25,Manila
+ORD0302,Christopher Romero,Muffin,Cake,1,284.11,284.11,Cash,Cancelled,2025-06-09,Batangas
+ORD0303,Valerie Avila,Banana Bread,Dessert,5,195.09,975.45,GCash,Completed,2025-08-02,Manila
+ORD0304,Brittney Jackson,Cookies,Pastry,8,406.81,3254.48,GCash,Completed,2025-09-25,Cavite
+ORD0305,Michelle Meyer,Donut,Pastry,2,148.22,296.44,Cash,Pending,2026-03-09,Cavite
+ORD0306,Daniel Huynh,Baguette,Bread,8,232.62,1860.96,Cash,Cancelled,2025-07-28,Laguna
+ORD0307,Denise Grant,Muffin,Dessert,10,272.44,2724.4,Credit Card,Cancelled,2025-11-07,Cavite
+ORD0308,Tracy Brown,Cheesecake,Pastry,2,233.46,466.92,Debit Card,Pending,2025-09-26,Cavite
+ORD0309,Robert Ewing,Cookies,Bread,2,297.2,594.4,Debit Card,Cancelled,2025-09-24,Laguna
+ORD0310,Kathryn Parker,Muffin,Dessert,9,475.24,4277.16,GCash,Pending,2026-01-04,Cavite
+ORD0311,Margaret Sandoval,Cookies,Dessert,10,360.23,3602.3,Debit Card,Cancelled,2026-02-04,Manila
+ORD0312,Arthur Nelson,Banana Bread,Pastry,10,326.42,3264.2,Credit Card,Completed,2025-08-31,Batangas
+ORD0313,Kyle Shepherd,Donut,Pastry,8,90.39,723.12,GCash,Cancelled,2025-11-05,Manila
+ORD0314,Kristen Fitzgerald,Cupcake,Dessert,5,470.41,2352.05,Debit Card,Completed,2025-11-06,Manila
+ORD0315,Amber Cox,Chocolate Cake,Dessert,9,113.59,1022.31,Debit Card,Pending,2026-03-21,Laguna
+ORD0316,Brian Rose,Croissant,Cake,8,420.13,3361.04,Credit Card,Cancelled,2026-05-13,Laguna
+ORD0317,Ann Ward,Cupcake,Dessert,9,60.22,541.98,GCash,Completed,2025-10-08,Manila
+ORD0318,Sherri Barnes,Banana Bread,Dessert,9,188.32,1694.88,GCash,Pending,2025-07-30,Batangas
+ORD0319,Cheryl Walker,Cupcake,Cake,6,444.44,2666.64,GCash,Pending,2025-11-22,Batangas
+ORD0320,Ryan Smith,Brownie,Cake,3,240.25,720.75,GCash,Cancelled,2026-03-21,Laguna
+ORD0321,Russell Hughes,Cheesecake,Bread,6,227.74,1366.44,Debit Card,Completed,2025-07-06,Laguna
+ORD0322,Antonio Ponce,Cheesecake,Dessert,5,337.01,1685.05,Credit Card,Cancelled,2025-12-19,Cavite
+ORD0323,William Hart,Cookies,Pastry,10,403.32,4033.2,Cash,Pending,2025-08-03,Laguna
+ORD0324,Meghan Baker,Banana Bread,Bread,1,198.55,198.55,Debit Card,Completed,2025-11-14,Cavite
+ORD0325,Valerie Mcneil,Croissant,Cake,3,177.91,533.73,Credit Card,Cancelled,2025-09-08,Batangas
+ORD0326,Melissa Velez,Brownie,Dessert,10,236.78,2367.8,Debit Card,Completed,2025-06-25,Laguna
+ORD0327,Paige Brown,Baguette,Cake,3,493.95,1481.85,Debit Card,Cancelled,2025-11-30,Laguna
+ORD0328,Tyler Nash DDS,Baguette,Pastry,3,362.8,1088.4,Credit Card,Pending,2025-06-27,Cavite
+ORD0329,Sharon Snyder,Banana Bread,Dessert,2,290.62,581.24,Credit Card,Pending,2026-01-04,Batangas
+ORD0330,Cindy Torres,Croissant,Bread,8,213.05,1704.4,Credit Card,Pending,2026-02-17,Manila
+ORD0331,Jennifer Rodriguez,Cupcake,Cake,5,405.42,2027.1,GCash,Cancelled,2025-08-28,Batangas
+ORD0332,Julie Adams,Chocolate Cake,Dessert,3,89.19,267.57,GCash,Completed,2025-05-16,Manila
+ORD0333,Jessica Ortiz,Cupcake,Cake,8,223.59,1788.72,Credit Card,Cancelled,2025-12-30,Laguna
+ORD0334,Laurie Ayala,Banana Bread,Bread,9,151.49,1363.41,Debit Card,Cancelled,2025-12-06,Manila
+ORD0335,James Rodriguez,Cupcake,Dessert,9,312.1,2808.9,Credit Card,Cancelled,2025-07-16,Manila
+ORD0336,Dustin Rodriguez,Cheesecake,Cake,10,406.94,4069.4,Cash,Pending,2025-10-19,Laguna
+ORD0337,Christine Ritter,Cheesecake,Cake,1,414.78,414.78,GCash,Pending,2026-05-01,Cavite
+ORD0338,Morgan Graham,Cupcake,Dessert,1,252.69,252.69,Credit Card,Pending,2025-07-05,Cavite
+ORD0339,Cindy Reyes,Cupcake,Pastry,2,396.85,793.7,Credit Card,Pending,2025-11-05,Cavite
+ORD0340,Matthew Crawford,Cheesecake,Bread,4,342.67,1370.68,Cash,Cancelled,2025-07-15,Manila
+ORD0341,Jason Perkins,Donut,Bread,6,62.18,373.08,Credit Card,Pending,2025-06-23,Manila
+ORD0342,Laura Olsen,Muffin,Cake,7,302.26,2115.82,Cash,Cancelled,2026-04-24,Batangas
+ORD0343,Holly Nguyen,Banana Bread,Pastry,7,326.45,2285.15,GCash,Cancelled,2025-10-11,Cavite
+ORD0344,Brian Gill,Cookies,Pastry,1,121.71,121.71,GCash,Pending,2025-12-07,Batangas
+ORD0345,Michelle Powers,Croissant,Bread,5,409.44,2047.2,Cash,Completed,2025-06-24,Manila
+ORD0346,Roger Jones,Brownie,Bread,7,203.22,1422.54,Debit Card,Cancelled,2025-06-18,Cavite
+ORD0347,Jessica Smith MD,Baguette,Bread,8,401.81,3214.48,Debit Card,Completed,2025-10-06,Laguna
+ORD0348,Jennifer Mann,Chocolate Cake,Pastry,3,359.31,1077.93,GCash,Pending,2025-07-09,Laguna
+ORD0349,Brian Hughes,Baguette,Dessert,5,145.63,728.15,Debit Card,Cancelled,2025-11-29,Batangas
+ORD0350,Brooke Hernandez,Baguette,Cake,7,377.59,2643.13,Cash,Completed,2025-06-19,Laguna
+ORD0351,Travis Estrada,Cookies,Bread,1,320.37,320.37,Cash,Cancelled,2026-05-05,Manila
+ORD0352,Ryan Williams,Baguette,Dessert,3,129.73,389.19,Cash,Pending,2025-12-11,Batangas
+ORD0353,Tim Miller,Donut,Cake,7,122.43,857.01,Debit Card,Pending,2025-12-01,Laguna
+ORD0354,Robert Cruz,Croissant,Pastry,6,305.26,1831.56,Cash,Pending,2025-08-17,Batangas
+ORD0355,Kevin Sanchez,Banana Bread,Dessert,5,462.13,2310.65,Credit Card,Pending,2025-12-18,Batangas
+ORD0356,Melanie Perez,Cookies,Bread,2,90.01,180.02,GCash,Cancelled,2026-02-24,Laguna
+ORD0357,Carlos Brown,Baguette,Cake,3,369.15,1107.45,GCash,Pending,2025-06-13,Laguna
+ORD0358,Cristina Maxwell,Banana Bread,Cake,9,140.19,1261.71,Debit Card,Cancelled,2025-11-03,Manila
+ORD0359,Evan Caldwell,Muffin,Pastry,7,132.02,924.14,GCash,Completed,2025-11-24,Cavite
+ORD0360,Troy Jackson,Chocolate Cake,Dessert,3,88.45,265.35,Credit Card,Cancelled,2025-06-15,Manila
+ORD0361,Alexandra Fox,Banana Bread,Bread,2,266.73,533.46,GCash,Pending,2025-11-11,Manila
+ORD0362,Stacey Smith,Donut,Pastry,4,249.37,997.48,GCash,Cancelled,2026-01-10,Manila
+ORD0363,Eric Nguyen,Cheesecake,Dessert,1,77.94,77.94,Debit Card,Pending,2025-08-26,Cavite
+ORD0364,Michael Elliott,Donut,Bread,8,444.04,3552.32,Cash,Completed,2026-01-29,Manila
+ORD0365,Grant Cowan,Banana Bread,Pastry,1,470.37,470.37,Credit Card,Completed,2025-10-26,Cavite
+ORD0366,Scott Johnson,Donut,Pastry,8,273.29,2186.32,GCash,Completed,2025-06-09,Batangas
+ORD0367,Michael Hansen,Croissant,Cake,4,269.94,1079.76,Credit Card,Pending,2025-05-26,Cavite
+ORD0368,Christine Vega,Muffin,Bread,9,271.17,2440.53,Credit Card,Cancelled,2026-02-19,Batangas
+ORD0369,Brianna Perez,Brownie,Dessert,6,276.19,1657.14,Debit Card,Cancelled,2025-08-07,Manila
+ORD0370,Kimberly Martin,Cookies,Cake,6,134.22,805.32,Credit Card,Pending,2026-02-01,Laguna
+ORD0371,Dana Sherman,Donut,Bread,2,464.28,928.56,GCash,Pending,2026-05-12,Laguna
+ORD0372,Todd Espinoza,Muffin,Cake,3,204.72,614.16,Debit Card,Cancelled,2025-08-27,Cavite
+ORD0373,Pamela Pruitt,Donut,Pastry,7,138.4,968.8,Debit Card,Cancelled,2025-09-28,Cavite
+ORD0374,Spencer Ward,Banana Bread,Pastry,10,434.79,4347.9,Cash,Completed,2026-02-06,Laguna
+ORD0375,Tom Chung,Cookies,Bread,2,470.46,940.92,GCash,Cancelled,2025-06-17,Cavite
+ORD0376,Lisa Sloan,Muffin,Dessert,5,81.01,405.05,Credit Card,Cancelled,2026-03-17,Manila
+ORD0377,Jonathan Gordon,Baguette,Dessert,8,202.77,1622.16,GCash,Pending,2025-10-31,Cavite
+ORD0378,Mariah Rogers,Chocolate Cake,Cake,1,285.37,285.37,Debit Card,Pending,2025-06-18,Manila
+ORD0379,Stephanie Johnson,Donut,Bread,10,368.85,3688.5,GCash,Completed,2025-09-30,Batangas
+ORD0380,Miguel Ramos,Brownie,Dessert,5,475.18,2375.9,Debit Card,Cancelled,2026-02-14,Laguna
+ORD0381,Carol Oneal,Muffin,Dessert,6,195.12,1170.72,Debit Card,Pending,2025-06-19,Laguna
+ORD0382,Heather Perkins,Muffin,Cake,2,144.7,289.4,Debit Card,Cancelled,2025-10-27,Cavite
+ORD0383,Nancy Fletcher,Brownie,Cake,8,477.41,3819.28,Credit Card,Pending,2025-06-08,Laguna
+ORD0384,Carla Hatfield DVM,Banana Bread,Cake,2,146.51,293.02,Credit Card,Completed,2025-06-21,Laguna
+ORD0385,Dana Hughes,Banana Bread,Cake,4,195.32,781.28,GCash,Completed,2026-02-07,Batangas
+ORD0386,Joseph Mcintosh,Banana Bread,Cake,7,240.87,1686.09,GCash,Cancelled,2025-08-26,Batangas
+ORD0387,Yvette Higgins,Baguette,Bread,2,355.43,710.86,Debit Card,Cancelled,2025-11-22,Laguna
+ORD0388,Brenda Moore,Cupcake,Pastry,6,276.8,1660.8,Credit Card,Completed,2025-11-25,Laguna
+ORD0389,Kathryn Saunders,Brownie,Pastry,7,92.05,644.35,Debit Card,Pending,2025-05-18,Manila
+ORD0390,Dr. William Brown,Banana Bread,Pastry,10,201.6,2016.0,Cash,Completed,2025-05-20,Batangas
+ORD0391,Jamie Reyes,Cheesecake,Pastry,3,482.63,1447.89,GCash,Completed,2025-11-11,Manila
+ORD0392,James Hunter,Banana Bread,Dessert,3,457.14,1371.42,Debit Card,Pending,2025-12-12,Laguna
+ORD0393,Yvette Davis DVM,Cheesecake,Bread,10,134.29,1342.9,GCash,Completed,2026-03-07,Cavite
+ORD0394,Jerry Lewis,Cupcake,Pastry,7,189.34,1325.38,Credit Card,Pending,2025-07-19,Cavite
+ORD0395,April Walker,Brownie,Cake,7,417.39,2921.73,GCash,Completed,2025-08-06,Manila
+ORD0396,Christian Johnson,Baguette,Dessert,7,97.06,679.42,Credit Card,Pending,2025-08-19,Manila
+ORD0397,Krystal Burgess DDS,Baguette,Cake,2,421.04,842.08,Cash,Pending,2025-07-24,Laguna
+ORD0398,Anthony Parker,Banana Bread,Cake,5,140.46,702.3,GCash,Pending,2026-04-29,Batangas
+ORD0399,Shannon Nixon,Muffin,Bread,1,274.17,274.17,GCash,Cancelled,2025-05-21,Manila
+ORD0400,Ian Hernandez,Chocolate Cake,Cake,7,476.9,3338.3,Credit Card,Completed,2026-04-12,Cavite
+ORD0401,Robert Reese,Donut,Cake,7,245.44,1718.08,GCash,Pending,2026-02-06,Cavite
+ORD0402,Samantha Hamilton,Cookies,Bread,3,136.66,409.98,Cash,Cancelled,2026-01-01,Laguna
+ORD0403,William Norton,Brownie,Dessert,8,177.36,1418.88,GCash,Completed,2025-08-05,Batangas
+ORD0404,Calvin Barber,Cookies,Pastry,4,328.77,1315.08,Credit Card,Completed,2025-10-18,Batangas
+ORD0405,Angela Gardner,Banana Bread,Cake,5,475.19,2375.95,Cash,Cancelled,2025-09-29,Manila
+ORD0406,William Griffin,Croissant,Pastry,2,419.97,839.94,Cash,Completed,2026-02-10,Manila
+ORD0407,David Randolph,Baguette,Dessert,9,140.95,1268.55,GCash,Cancelled,2025-05-21,Cavite
+ORD0408,Bobby Brock,Cheesecake,Cake,3,280.42,841.26,Debit Card,Completed,2025-09-20,Manila
+ORD0409,Peter Pineda,Donut,Bread,8,151.44,1211.52,GCash,Completed,2026-04-01,Cavite
+ORD0410,Megan Douglas,Muffin,Pastry,9,99.1,891.9,GCash,Cancelled,2026-01-03,Laguna
+ORD0411,Matthew Stewart,Cupcake,Dessert,10,240.03,2400.3,GCash,Pending,2026-02-17,Cavite
+ORD0412,Mr. Joseph Mckinney,Cheesecake,Bread,8,176.97,1415.76,Debit Card,Cancelled,2026-04-02,Cavite
+ORD0413,Craig Wright,Cookies,Dessert,7,278.33,1948.31,Credit Card,Pending,2025-10-30,Cavite
+ORD0414,Brandy Gonzalez,Cookies,Bread,5,214.64,1073.2,GCash,Pending,2025-07-29,Cavite
+ORD0415,Robert Raymond,Banana Bread,Bread,4,115.84,463.36,Credit Card,Cancelled,2026-04-08,Cavite
+ORD0416,Matthew Harper,Chocolate Cake,Dessert,4,127.86,511.44,GCash,Completed,2026-01-08,Batangas
+ORD0417,Hannah Smith,Cookies,Pastry,1,493.64,493.64,Cash,Cancelled,2025-11-28,Laguna
+ORD0418,Barbara Holmes,Banana Bread,Pastry,5,402.06,2010.3,Cash,Pending,2025-09-25,Batangas
+ORD0419,Steven Taylor,Muffin,Dessert,10,483.44,4834.4,Cash,Pending,2025-12-03,Laguna
+ORD0420,Jackson Williams,Muffin,Cake,10,211.52,2115.2,Cash,Pending,2025-09-22,Manila
+ORD0421,Daniel Robinson,Donut,Dessert,7,141.25,988.75,Credit Card,Pending,2025-07-17,Batangas
+ORD0422,Gregory Hunt,Cupcake,Pastry,5,439.15,2195.75,Debit Card,Cancelled,2025-12-22,Laguna
+ORD0423,Cody Ortega,Cheesecake,Cake,6,471.67,2830.02,Debit Card,Pending,2025-06-04,Cavite
+ORD0424,Denise Olson,Cheesecake,Dessert,6,306.94,1841.64,Cash,Cancelled,2026-03-16,Laguna
+ORD0425,Cindy White,Chocolate Cake,Bread,8,477.05,3816.4,Credit Card,Pending,2025-09-21,Manila
+ORD0426,Nicholas English,Chocolate Cake,Bread,9,66.58,599.22,Cash,Completed,2026-02-05,Cavite
+ORD0427,Kevin Owens,Brownie,Dessert,10,203.42,2034.2,Cash,Pending,2026-03-11,Batangas
+ORD0428,Kevin Medina,Croissant,Pastry,1,359.72,359.72,Credit Card,Pending,2025-07-24,Cavite
+ORD0429,Jessica Watkins,Brownie,Pastry,5,423.02,2115.1,Debit Card,Cancelled,2025-10-20,Laguna
+ORD0430,David Thompson,Baguette,Cake,6,175.74,1054.44,Cash,Completed,2026-04-20,Manila
+ORD0431,Joshua Benjamin,Croissant,Cake,5,495.38,2476.9,Debit Card,Completed,2026-01-19,Manila
+ORD0432,David Craig MD,Cheesecake,Cake,4,420.35,1681.4,Cash,Completed,2025-10-09,Manila
+ORD0433,Miss Nicole Johnson,Cupcake,Dessert,5,89.68,448.4,Credit Card,Cancelled,2026-02-14,Cavite
+ORD0434,Mark Sanchez,Baguette,Cake,4,66.98,267.92,Debit Card,Completed,2025-09-09,Laguna
+ORD0435,Mr. Jeffrey Hicks,Croissant,Pastry,3,367.18,1101.54,Cash,Completed,2026-01-10,Batangas
+ORD0436,Kimberly Glover,Donut,Pastry,3,396.46,1189.38,Cash,Cancelled,2026-01-26,Manila
+ORD0437,James Macdonald,Banana Bread,Cake,7,254.61,1782.27,Cash,Completed,2026-04-09,Laguna
+ORD0438,Jessica Johnson,Donut,Bread,2,194.2,388.4,Credit Card,Cancelled,2026-01-24,Laguna
+ORD0439,Janet Price,Cookies,Dessert,9,393.57,3542.13,Debit Card,Completed,2026-03-25,Manila
+ORD0440,Kathleen Johnson,Brownie,Bread,3,240.05,720.15,GCash,Pending,2026-03-09,Cavite
+ORD0441,Stephanie Johnson,Baguette,Bread,10,188.08,1880.8,GCash,Cancelled,2025-06-14,Cavite
+ORD0442,Michael Hayes,Baguette,Cake,6,259.48,1556.88,Credit Card,Completed,2025-07-19,Batangas
+ORD0443,Peter Lawson,Banana Bread,Pastry,5,213.52,1067.6,Credit Card,Completed,2026-04-13,Batangas
+ORD0444,Lisa Harris,Baguette,Dessert,4,441.05,1764.2,Credit Card,Completed,2025-08-04,Cavite
+ORD0445,Kevin Hines,Cupcake,Pastry,6,323.67,1942.02,Cash,Completed,2026-02-12,Batangas
+ORD0446,Cathy Ramos,Brownie,Pastry,6,252.58,1515.48,Credit Card,Completed,2025-12-18,Laguna
+ORD0447,Katherine Johnson,Baguette,Cake,6,423.5,2541.0,Debit Card,Completed,2025-08-04,Batangas
+ORD0448,Susan Frederick,Cupcake,Pastry,3,229.78,689.34,GCash,Completed,2025-06-22,Laguna
+ORD0449,Steven Cooper,Brownie,Dessert,2,283.57,567.14,Debit Card,Pending,2025-12-29,Manila
+ORD0450,Dennis Griffin,Cupcake,Bread,9,281.98,2537.82,GCash,Cancelled,2026-05-08,Cavite
+ORD0451,Nicole Olson,Baguette,Pastry,4,292.09,1168.36,Credit Card,Completed,2025-07-23,Manila
+ORD0452,Kathryn Oliver,Cookies,Dessert,3,120.31,360.93,Debit Card,Completed,2025-08-08,Manila
+ORD0453,Scott Simmons,Croissant,Cake,1,237.0,237.0,Cash,Cancelled,2025-06-29,Batangas
+ORD0454,Gabriel Perez,Cheesecake,Pastry,1,405.82,405.82,Cash,Completed,2025-12-03,Laguna
+ORD0455,Jennifer Blanchard,Cookies,Pastry,5,169.53,847.65,GCash,Pending,2025-09-08,Cavite
+ORD0456,Yolanda Kim,Cheesecake,Bread,10,191.27,1912.7,Credit Card,Completed,2025-12-03,Cavite
+ORD0457,Caitlyn Hill,Muffin,Pastry,8,404.55,3236.4,Cash,Cancelled,2025-12-18,Cavite
+ORD0458,Rita Thomas,Cupcake,Cake,1,456.47,456.47,GCash,Completed,2025-12-23,Cavite
+ORD0459,Ruben Swanson,Brownie,Cake,3,377.56,1132.68,Debit Card,Completed,2025-12-05,Batangas
+ORD0460,Trevor Snow,Brownie,Cake,10,102.39,1023.9,Cash,Cancelled,2026-05-06,Laguna
+ORD0461,Megan Henderson,Donut,Cake,4,328.97,1315.88,Cash,Pending,2025-05-30,Batangas
+ORD0462,Christopher Long,Chocolate Cake,Dessert,2,279.49,558.98,GCash,Completed,2026-03-10,Batangas
+ORD0463,Kelly Garza,Cupcake,Dessert,8,72.92,583.36,GCash,Cancelled,2026-03-05,Manila
+ORD0464,Kathy Aguilar,Muffin,Cake,2,475.74,951.48,Debit Card,Pending,2025-10-15,Batangas
+ORD0465,Kelly Erickson,Brownie,Dessert,6,58.71,352.26,Credit Card,Cancelled,2025-07-17,Cavite
+ORD0466,Jeffrey Morales,Cookies,Bread,7,268.08,1876.56,Credit Card,Pending,2026-01-01,Batangas
+ORD0467,Angel Smith,Cheesecake,Cake,4,346.33,1385.32,GCash,Pending,2025-07-13,Cavite
+ORD0468,Julie Ramos,Donut,Bread,4,478.05,1912.2,Debit Card,Cancelled,2026-03-30,Laguna
+ORD0469,Mrs. Jennifer Anderson PhD,Muffin,Pastry,4,388.35,1553.4,GCash,Completed,2025-10-22,Batangas
+ORD0470,Katherine Chase,Banana Bread,Pastry,2,457.47,914.94,GCash,Completed,2026-03-18,Manila
+ORD0471,Katelyn Holmes,Croissant,Cake,1,256.81,256.81,Credit Card,Cancelled,2025-09-03,Manila
+ORD0472,Kenneth Graves,Baguette,Dessert,9,431.88,3886.92,Debit Card,Pending,2025-12-27,Cavite
+ORD0473,Brittany Wade,Croissant,Pastry,5,458.24,2291.2,Debit Card,Pending,2025-08-08,Cavite
+ORD0474,Jeffrey Murphy,Cupcake,Dessert,1,81.44,81.44,Debit Card,Pending,2025-07-21,Batangas
+ORD0475,Vincent Anderson,Banana Bread,Bread,2,128.43,256.86,Debit Card,Cancelled,2025-09-06,Cavite
+ORD0476,Christie Stanley,Croissant,Cake,2,298.53,597.06,Cash,Cancelled,2025-07-18,Manila
+ORD0477,Kenneth Jarvis,Cupcake,Cake,9,435.43,3918.87,GCash,Pending,2025-11-07,Laguna
+ORD0478,Betty Crawford,Baguette,Dessert,7,303.29,2123.03,Cash,Pending,2026-04-21,Manila
+ORD0479,Rachel Collins,Baguette,Cake,1,466.79,466.79,GCash,Cancelled,2026-02-12,Batangas
+ORD0480,Joseph Smith,Croissant,Bread,3,376.14,1128.42,Debit Card,Completed,2025-09-28,Cavite
+ORD0481,Kimberly Morgan,Cookies,Dessert,3,420.76,1262.28,GCash,Cancelled,2026-05-01,Laguna
+ORD0482,Kelly Holt,Brownie,Bread,1,104.9,104.9,GCash,Cancelled,2026-03-24,Batangas
+ORD0483,Nichole Patton,Muffin,Pastry,2,164.05,328.1,GCash,Completed,2025-10-27,Laguna
+ORD0484,Kristy Lindsey,Chocolate Cake,Cake,3,200.85,602.55,Cash,Pending,2025-12-15,Cavite
+ORD0485,Michael Nichols,Cookies,Bread,2,161.61,323.22,Debit Card,Pending,2025-05-16,Laguna
+ORD0486,Brian Gonzalez,Cheesecake,Bread,5,79.54,397.7,GCash,Completed,2026-02-11,Cavite
+ORD0487,Michael Shaw,Baguette,Pastry,5,407.71,2038.55,Debit Card,Cancelled,2025-11-28,Manila
+ORD0488,Sandra Vasquez,Chocolate Cake,Bread,6,325.04,1950.24,Cash,Completed,2025-07-03,Laguna
+ORD0489,Tyler Watson,Cupcake,Cake,4,234.4,937.6,Cash,Completed,2025-09-16,Batangas
+ORD0490,Thomas Thomas,Brownie,Bread,8,439.63,3517.04,Credit Card,Completed,2025-12-22,Laguna
+ORD0491,Mark Ramsey,Chocolate Cake,Pastry,5,366.67,1833.35,Credit Card,Pending,2025-06-11,Manila
+ORD0492,Ronald Cruz,Cheesecake,Pastry,2,479.71,959.42,Credit Card,Completed,2026-04-04,Laguna
+ORD0493,Stacey Robles,Chocolate Cake,Dessert,4,418.95,1675.8,Debit Card,Completed,2025-10-15,Laguna
+ORD0494,Anita Williams,Banana Bread,Cake,1,402.68,402.68,GCash,Cancelled,2025-05-27,Cavite
+ORD0495,Shannon Edwards,Donut,Cake,9,475.82,4282.38,GCash,Cancelled,2025-08-11,Laguna
+ORD0496,Kevin Scott,Cheesecake,Bread,9,497.48,4477.32,Credit Card,Completed,2025-11-19,Cavite
+ORD0497,Matthew Kelly,Cupcake,Dessert,8,310.6,2484.8,Cash,Pending,2025-12-13,Batangas
+ORD0498,Stephanie Barnes,Brownie,Pastry,3,384.37,1153.11,Debit Card,Pending,2025-08-09,Batangas
+ORD0499,Robert Adams,Banana Bread,Dessert,6,224.47,1346.82,Credit Card,Completed,2025-09-29,Cavite
+ORD0500,Veronica Jacobs,Donut,Dessert,6,213.6,1281.6,Credit Card,Completed,2025-06-16,Cavite
+ORD0501,Tina Hernandez,Croissant,Dessert,2,135.61,271.22,GCash,Completed,2026-02-03,Cavite
+ORD0502,Frances Vega,Chocolate Cake,Pastry,5,238.19,1190.95,Credit Card,Cancelled,2026-04-21,Cavite
+ORD0503,Kyle Cole,Cheesecake,Dessert,10,433.75,4337.5,Cash,Pending,2025-12-30,Cavite
+ORD0504,Lawrence Griffin,Baguette,Pastry,9,75.44,678.96,GCash,Completed,2025-08-19,Manila
+ORD0505,Aaron Miller,Croissant,Cake,9,191.5,1723.5,Credit Card,Pending,2025-11-14,Batangas
+ORD0506,Melissa Kaufman,Chocolate Cake,Bread,1,365.6,365.6,Credit Card,Cancelled,2025-08-31,Laguna
+ORD0507,Colton Strong,Banana Bread,Dessert,3,131.81,395.43,Credit Card,Cancelled,2025-11-26,Batangas
+ORD0508,Dr. James Guerra,Baguette,Cake,7,60.2,421.4,GCash,Cancelled,2025-06-28,Laguna
+ORD0509,Robin Shah,Cupcake,Bread,4,254.31,1017.24,Debit Card,Pending,2025-08-10,Laguna
+ORD0510,Larry Murphy,Baguette,Cake,2,155.79,311.58,Credit Card,Cancelled,2026-02-11,Laguna
+ORD0511,James Mathis,Cheesecake,Dessert,1,152.16,152.16,Cash,Pending,2025-11-12,Laguna
+ORD0512,Sherry Williams,Cheesecake,Pastry,8,111.05,888.4,GCash,Cancelled,2025-09-18,Batangas
+ORD0513,Jeremy Mcguire,Donut,Cake,3,257.79,773.37,GCash,Cancelled,2025-08-28,Batangas
+ORD0514,Monique Wilkerson,Cupcake,Bread,6,67.89,407.34,Cash,Pending,2026-01-22,Batangas
+ORD0515,Cindy Walls,Cookies,Cake,9,387.07,3483.63,Debit Card,Completed,2025-12-20,Cavite
+ORD0516,Derek Reyes,Muffin,Cake,5,221.84,1109.2,Cash,Completed,2025-11-28,Batangas
+ORD0517,Sharon Wang,Muffin,Cake,6,242.23,1453.38,Cash,Pending,2025-10-10,Manila
+ORD0518,Vincent Gardner,Donut,Bread,5,322.0,1610.0,Cash,Pending,2025-11-23,Cavite
+ORD0519,Sean Knight,Croissant,Dessert,6,276.87,1661.22,Cash,Completed,2026-03-17,Laguna
+ORD0520,Sherry Morris,Cheesecake,Bread,5,478.1,2390.5,GCash,Cancelled,2026-03-02,Manila
+ORD0521,Mrs. Chelsea Williams PhD,Croissant,Pastry,5,272.53,1362.65,Credit Card,Cancelled,2025-10-08,Laguna
+ORD0522,John Snyder,Cookies,Cake,2,391.03,782.06,Cash,Cancelled,2025-10-29,Manila
+ORD0523,Dr. Vicki Johnson,Banana Bread,Cake,10,238.81,2388.1,Credit Card,Completed,2026-05-02,Manila
+ORD0524,John Bryan,Croissant,Cake,1,374.83,374.83,Debit Card,Completed,2025-07-21,Laguna
+ORD0525,Christian Holland,Cheesecake,Cake,1,122.89,122.89,Debit Card,Cancelled,2026-01-04,Manila
+ORD0526,John Walton,Banana Bread,Pastry,1,311.77,311.77,Credit Card,Cancelled,2025-08-15,Batangas
+ORD0527,Peter Hall,Banana Bread,Bread,10,455.44,4554.4,Credit Card,Completed,2026-02-01,Laguna
+ORD0528,Dana Valenzuela,Chocolate Cake,Dessert,1,474.95,474.95,Debit Card,Pending,2026-04-14,Cavite
+ORD0529,Allison Johnson,Donut,Dessert,5,109.3,546.5,Debit Card,Cancelled,2026-01-17,Laguna
+ORD0530,Bridget Jones,Cupcake,Cake,4,303.82,1215.28,GCash,Completed,2026-03-23,Cavite
+ORD0531,Philip Matthews,Chocolate Cake,Pastry,6,292.41,1754.46,Cash,Cancelled,2025-10-05,Laguna
+ORD0532,Calvin Wilson,Cupcake,Dessert,8,400.2,3201.6,Cash,Completed,2026-05-10,Laguna
+ORD0533,Lori Weaver,Brownie,Cake,6,410.51,2463.06,Cash,Cancelled,2025-05-21,Laguna
+ORD0534,Richard Gray,Donut,Dessert,3,113.45,340.35,GCash,Cancelled,2025-06-25,Laguna
+ORD0535,Linda Ball,Chocolate Cake,Dessert,6,372.16,2232.96,Cash,Completed,2025-09-22,Manila
+ORD0536,Thomas Morris,Chocolate Cake,Bread,10,468.1,4681.0,Credit Card,Completed,2025-09-16,Manila
+ORD0537,Christian Vaughn,Chocolate Cake,Bread,7,204.89,1434.23,Credit Card,Completed,2026-02-10,Laguna
+ORD0538,Anna Callahan,Cupcake,Pastry,6,64.27,385.62,Credit Card,Completed,2025-07-18,Cavite
+ORD0539,Michael Foster,Baguette,Pastry,3,188.46,565.38,Debit Card,Cancelled,2025-12-26,Batangas
+ORD0540,Timothy Mckinney,Donut,Pastry,1,366.26,366.26,GCash,Cancelled,2026-02-23,Batangas
+ORD0541,Stacey Hall,Muffin,Dessert,5,407.09,2035.45,Debit Card,Cancelled,2026-01-07,Laguna
+ORD0542,Sonya Rios,Cookies,Cake,4,204.25,817.0,Credit Card,Cancelled,2026-02-16,Cavite
+ORD0543,David Myers,Chocolate Cake,Bread,8,151.4,1211.2,Credit Card,Completed,2025-10-04,Manila
+ORD0544,Caleb Osborn,Donut,Dessert,5,466.54,2332.7,Cash,Cancelled,2025-06-17,Laguna
+ORD0545,John Campbell,Cheesecake,Cake,4,126.15,504.6,Cash,Completed,2026-01-15,Laguna
+ORD0546,Paul Green,Banana Bread,Cake,4,271.88,1087.52,GCash,Cancelled,2025-07-12,Cavite
+ORD0547,Adrienne Schroeder,Cookies,Pastry,10,282.02,2820.2,GCash,Pending,2026-03-07,Batangas
+ORD0548,Fernando Ware,Baguette,Dessert,4,214.56,858.24,GCash,Pending,2025-12-08,Batangas
+ORD0549,Christopher Bryant,Donut,Pastry,5,176.27,881.35,Debit Card,Completed,2025-10-12,Batangas
+ORD0550,Amy Rich,Donut,Cake,1,461.02,461.02,Debit Card,Pending,2025-05-23,Batangas
+ORD0551,Jason Rojas,Banana Bread,Pastry,4,468.97,1875.88,Credit Card,Pending,2025-07-03,Cavite
+ORD0552,Michael Mcdowell,Croissant,Bread,4,253.39,1013.56,Credit Card,Pending,2025-10-19,Manila
+ORD0553,Mrs. Nicole Walton,Brownie,Dessert,5,384.87,1924.35,Debit Card,Cancelled,2025-06-23,Laguna
+ORD0554,Kevin Frey,Croissant,Bread,9,77.34,696.06,Cash,Cancelled,2025-08-03,Batangas
+ORD0555,Ethan Adams,Chocolate Cake,Pastry,2,475.03,950.06,Debit Card,Pending,2025-05-26,Cavite
+ORD0556,Elizabeth Watson,Muffin,Pastry,6,193.58,1161.48,Cash,Pending,2025-08-10,Batangas
+ORD0557,Anna Gibson,Muffin,Pastry,5,268.07,1340.35,Cash,Completed,2025-09-30,Laguna
+ORD0558,Jennifer Salazar,Baguette,Bread,3,174.71,524.13,Credit Card,Completed,2025-06-18,Cavite
+ORD0559,Victoria Arroyo,Muffin,Dessert,5,435.1,2175.5,Debit Card,Pending,2025-08-31,Cavite
+ORD0560,Angela Erickson,Baguette,Cake,3,476.2,1428.6,Cash,Completed,2025-08-27,Cavite
+ORD0561,Raymond Hansen,Baguette,Pastry,1,314.2,314.2,GCash,Cancelled,2025-07-15,Manila
+ORD0562,Ashley Mills,Muffin,Bread,5,134.0,670.0,Credit Card,Pending,2025-06-07,Batangas
+ORD0563,Julie Jackson,Brownie,Bread,9,196.78,1771.02,Cash,Pending,2026-01-04,Batangas
+ORD0564,Jessica Reese,Brownie,Cake,8,216.79,1734.32,Credit Card,Pending,2025-12-21,Batangas
+ORD0565,Elizabeth Wall,Cupcake,Bread,3,461.21,1383.63,GCash,Completed,2025-10-14,Cavite
+ORD0566,Jose Roberts,Cupcake,Dessert,4,484.16,1936.64,Debit Card,Pending,2025-07-04,Laguna
+ORD0567,Lee Martin,Donut,Pastry,2,413.55,827.1,Credit Card,Pending,2026-05-04,Manila
+ORD0568,Erica Stephens,Cookies,Pastry,9,174.11,1566.99,Debit Card,Completed,2026-01-17,Manila
+ORD0569,Curtis Larson,Brownie,Dessert,2,322.41,644.82,Credit Card,Completed,2026-01-27,Cavite
+ORD0570,Michael Holloway,Chocolate Cake,Bread,9,410.66,3695.94,Credit Card,Pending,2025-08-03,Batangas
+ORD0571,Jordan Brown,Banana Bread,Dessert,6,482.79,2896.74,Debit Card,Cancelled,2025-05-24,Manila
+ORD0572,Mr. Joshua Vaughan MD,Croissant,Cake,7,68.14,476.98,Credit Card,Pending,2026-02-05,Laguna
+ORD0573,David Bradley,Cookies,Pastry,3,298.91,896.73,GCash,Completed,2025-11-16,Batangas
+ORD0574,Ann Martinez DDS,Banana Bread,Bread,4,341.49,1365.96,Debit Card,Completed,2026-01-25,Manila
+ORD0575,Darryl Williamson,Banana Bread,Cake,9,190.27,1712.43,GCash,Cancelled,2025-12-05,Batangas
+ORD0576,Ernest Hernandez,Croissant,Bread,2,112.54,225.08,Credit Card,Cancelled,2026-05-14,Laguna
+ORD0577,Joyce Fox,Cheesecake,Pastry,8,283.35,2266.8,Cash,Pending,2026-03-16,Cavite
+ORD0578,Crystal Baker,Chocolate Cake,Bread,10,150.79,1507.9,Credit Card,Pending,2025-07-13,Laguna
+ORD0579,Sherri Hernandez,Chocolate Cake,Pastry,5,260.85,1304.25,Debit Card,Completed,2025-10-31,Cavite
+ORD0580,Kenneth Taylor,Cookies,Bread,8,422.1,3376.8,Cash,Pending,2026-05-08,Manila
+ORD0581,Lauren Duncan,Muffin,Bread,10,162.09,1620.9,Cash,Completed,2025-10-26,Laguna
+ORD0582,Nicholas Wood,Banana Bread,Dessert,5,115.26,576.3,Cash,Pending,2025-08-17,Manila
+ORD0583,Mary Small,Donut,Pastry,6,141.62,849.72,Cash,Pending,2025-09-30,Laguna
+ORD0584,Andrea Gonzales,Chocolate Cake,Pastry,6,320.75,1924.5,Debit Card,Pending,2026-01-09,Batangas
+ORD0585,Kristopher Fuller MD,Cheesecake,Dessert,10,308.91,3089.1,Debit Card,Cancelled,2025-12-29,Cavite
+ORD0586,Haley Craig,Muffin,Pastry,1,391.74,391.74,Debit Card,Pending,2025-08-22,Batangas
+ORD0587,Terri Gomez,Brownie,Pastry,7,371.97,2603.79,Debit Card,Cancelled,2025-10-16,Laguna
+ORD0588,Jeremy Thomas,Cheesecake,Cake,4,421.71,1686.84,Credit Card,Pending,2025-11-29,Cavite
+ORD0589,Daniel Moyer,Cookies,Bread,10,97.36,973.6,Debit Card,Completed,2025-10-20,Manila
+ORD0590,Mark Johnson,Croissant,Bread,4,358.88,1435.52,Cash,Completed,2025-12-05,Batangas
+ORD0591,Rebecca Castro,Croissant,Cake,2,143.39,286.78,Cash,Cancelled,2026-01-16,Laguna
+ORD0592,Mark Johnson,Chocolate Cake,Bread,8,159.85,1278.8,Credit Card,Cancelled,2026-05-12,Cavite
+ORD0593,Lisa Edwards,Chocolate Cake,Bread,9,103.82,934.38,GCash,Cancelled,2025-11-08,Manila
+ORD0594,Gregory Roberson,Baguette,Pastry,8,183.41,1467.28,Cash,Pending,2026-04-21,Manila
+ORD0595,Franklin Lewis,Banana Bread,Pastry,5,216.17,1080.85,Credit Card,Cancelled,2025-12-18,Cavite
+ORD0596,Sara Johnson,Cheesecake,Pastry,3,262.46,787.38,Cash,Completed,2025-05-21,Laguna
+ORD0597,Emily Hill,Cupcake,Dessert,1,99.91,99.91,Credit Card,Cancelled,2026-02-05,Cavite
+ORD0598,Ricky Acosta,Chocolate Cake,Dessert,8,385.04,3080.32,Cash,Cancelled,2025-09-17,Cavite
+ORD0599,Lisa Williams,Brownie,Bread,8,279.88,2239.04,GCash,Cancelled,2025-07-31,Manila
+ORD0600,Michael Crawford,Chocolate Cake,Pastry,3,426.75,1280.25,Credit Card,Pending,2025-08-10,Cavite
+ORD0601,Dennis Wallace,Brownie,Dessert,8,418.63,3349.04,GCash,Completed,2026-02-11,Batangas
+ORD0602,Melissa Williams,Cupcake,Dessert,8,223.28,1786.24,Debit Card,Cancelled,2026-01-01,Laguna
+ORD0603,Elizabeth Moore,Brownie,Cake,10,316.81,3168.1,Debit Card,Cancelled,2025-11-19,Cavite
+ORD0604,Michelle Jones,Cheesecake,Pastry,3,278.56,835.68,Debit Card,Pending,2025-11-01,Laguna
+ORD0605,Matthew Carter,Cupcake,Cake,5,98.73,493.65,Cash,Cancelled,2026-04-23,Cavite
+ORD0606,Melissa Sanders,Banana Bread,Dessert,5,376.22,1881.1,GCash,Completed,2026-02-25,Laguna
+ORD0607,Natalie Eaton,Donut,Dessert,9,271.73,2445.57,Credit Card,Pending,2025-10-27,Laguna
+ORD0608,Tiffany Williams,Cupcake,Cake,6,468.43,2810.58,Credit Card,Cancelled,2025-09-27,Batangas
+ORD0609,Lawrence Oneill,Cheesecake,Bread,10,231.59,2315.9,Cash,Completed,2025-10-19,Laguna
+ORD0610,Kenneth Perry,Cupcake,Cake,3,54.77,164.31,Credit Card,Completed,2025-08-20,Batangas
+ORD0611,Kathleen Padilla,Cheesecake,Cake,9,187.44,1686.96,Debit Card,Completed,2025-09-03,Batangas
+ORD0612,Joshua Eaton,Cupcake,Bread,6,329.63,1977.78,GCash,Pending,2025-11-04,Batangas
+ORD0613,Frank Smith,Muffin,Pastry,8,484.67,3877.36,Debit Card,Pending,2026-05-11,Manila
+ORD0614,Jeffrey Fitzpatrick,Cupcake,Pastry,1,163.85,163.85,Credit Card,Pending,2025-06-03,Manila
+ORD0615,William Davies,Brownie,Cake,4,140.74,562.96,Debit Card,Cancelled,2025-07-14,Batangas
+ORD0616,Nicholas Mccoy,Cupcake,Bread,4,231.93,927.72,GCash,Cancelled,2026-01-13,Cavite
+ORD0617,Jill Christensen,Croissant,Pastry,1,429.82,429.82,Cash,Cancelled,2026-03-27,Manila
+ORD0618,Alyssa Buck,Cheesecake,Pastry,9,288.81,2599.29,Debit Card,Pending,2025-08-20,Laguna
+ORD0619,Robert Jones,Banana Bread,Dessert,6,99.19,595.14,Credit Card,Pending,2026-01-02,Cavite
+ORD0620,Alicia Valenzuela,Croissant,Pastry,8,247.06,1976.48,Credit Card,Completed,2026-01-11,Batangas
+ORD0621,Mr. Alvin Ewing,Croissant,Bread,5,139.01,695.05,Cash,Pending,2026-02-06,Manila
+ORD0622,Robert Bell,Cheesecake,Cake,2,153.52,307.04,Credit Card,Cancelled,2025-09-07,Laguna
+ORD0623,Kenneth Bridges,Cookies,Dessert,7,181.2,1268.4,Debit Card,Pending,2025-12-18,Cavite
+ORD0624,Brandon Lamb,Banana Bread,Dessert,7,187.4,1311.8,Credit Card,Cancelled,2026-04-14,Batangas
+ORD0625,Jessica Anderson,Cupcake,Pastry,7,319.29,2235.03,Debit Card,Cancelled,2025-11-14,Batangas
+ORD0626,Brandi Petersen,Cookies,Bread,3,463.2,1389.6,Cash,Pending,2025-11-29,Cavite
+ORD0627,Taylor Davis,Croissant,Cake,1,412.1,412.1,Debit Card,Completed,2025-09-04,Batangas
+ORD0628,Trevor Andrews,Cookies,Pastry,10,489.33,4893.3,Cash,Cancelled,2025-06-07,Cavite
+ORD0629,Mallory Carpenter,Brownie,Dessert,9,298.07,2682.63,Debit Card,Completed,2025-06-01,Batangas
+ORD0630,Vincent Jones,Croissant,Pastry,9,52.71,474.39,GCash,Completed,2025-10-01,Manila
+ORD0631,Michelle Aguirre,Cupcake,Cake,5,280.47,1402.35,Cash,Completed,2025-06-29,Manila
+ORD0632,Clinton Martinez,Donut,Pastry,4,491.88,1967.52,Credit Card,Cancelled,2025-12-23,Manila
+ORD0633,Phillip Harvey,Banana Bread,Pastry,7,421.62,2951.34,Debit Card,Completed,2026-02-01,Batangas
+ORD0634,Jason Brooks,Chocolate Cake,Dessert,6,304.42,1826.52,Cash,Pending,2026-01-19,Cavite
+ORD0635,Scott Kirby,Brownie,Dessert,6,452.16,2712.96,Cash,Cancelled,2025-06-25,Cavite
+ORD0636,Erika Banks,Donut,Cake,4,296.12,1184.48,Debit Card,Pending,2026-05-14,Manila
+ORD0637,Paula Owens,Cheesecake,Dessert,5,156.78,783.9,Debit Card,Cancelled,2026-03-22,Manila
+ORD0638,Wanda Grant,Banana Bread,Pastry,4,229.94,919.76,Debit Card,Pending,2026-04-26,Batangas
+ORD0639,George Guzman,Baguette,Bread,4,319.35,1277.4,GCash,Pending,2025-05-31,Cavite
+ORD0640,Scott Gibson MD,Cookies,Cake,8,62.34,498.72,Debit Card,Pending,2025-11-23,Cavite
+ORD0641,Anthony Henry,Donut,Bread,7,202.77,1419.39,Debit Card,Cancelled,2025-12-31,Laguna
+ORD0642,Michael Warren,Donut,Pastry,1,181.75,181.75,Credit Card,Completed,2025-10-06,Batangas
+ORD0643,Mitchell Smith,Cupcake,Cake,7,493.8,3456.6,GCash,Pending,2025-08-22,Laguna
+ORD0644,Alexander Holloway,Banana Bread,Bread,5,478.43,2392.15,Cash,Pending,2025-06-12,Batangas
+ORD0645,Andrea Bradley,Baguette,Cake,2,266.28,532.56,Credit Card,Pending,2025-05-29,Manila
+ORD0646,Dr. Kristopher Warren,Donut,Pastry,5,376.11,1880.55,Credit Card,Completed,2026-04-26,Cavite
+ORD0647,Victoria Roy,Baguette,Bread,1,449.77,449.77,Credit Card,Completed,2026-04-11,Laguna
+ORD0648,Lisa Adams,Cupcake,Cake,4,405.05,1620.2,Credit Card,Completed,2026-02-10,Laguna
+ORD0649,Brittany Duarte,Chocolate Cake,Dessert,2,214.77,429.54,GCash,Cancelled,2025-12-14,Cavite
+ORD0650,Thomas White,Muffin,Dessert,4,253.62,1014.48,GCash,Cancelled,2025-06-17,Laguna
+ORD0651,Wesley Duncan,Brownie,Dessert,4,340.06,1360.24,Credit Card,Completed,2025-08-02,Batangas
+ORD0652,Sarah Thomas,Donut,Cake,8,107.42,859.36,GCash,Cancelled,2025-09-04,Cavite
+ORD0653,Katherine Mason,Cheesecake,Cake,10,135.78,1357.8,GCash,Pending,2026-03-14,Manila
+ORD0654,David Thompson,Croissant,Cake,5,318.24,1591.2,Credit Card,Cancelled,2025-06-24,Manila
+ORD0655,Barbara Harris,Banana Bread,Dessert,7,75.44,528.08,GCash,Cancelled,2026-05-12,Manila
+ORD0656,Randy Wright,Cupcake,Pastry,9,265.9,2393.1,Credit Card,Completed,2026-02-24,Laguna
+ORD0657,Dana Mack,Banana Bread,Bread,3,474.59,1423.77,GCash,Cancelled,2025-09-30,Cavite
+ORD0658,James Jones,Cookies,Dessert,1,231.34,231.34,Cash,Pending,2026-03-30,Batangas
+ORD0659,Lance Garcia,Croissant,Cake,3,339.33,1017.99,Cash,Pending,2025-08-21,Batangas
+ORD0660,Jennifer Crosby,Donut,Dessert,5,322.03,1610.15,GCash,Cancelled,2026-01-04,Manila
+ORD0661,Matthew Buchanan,Cupcake,Cake,5,241.04,1205.2,Debit Card,Cancelled,2025-07-26,Manila
+ORD0662,Ryan Cruz,Brownie,Pastry,2,130.95,261.9,Debit Card,Pending,2025-06-07,Laguna
+ORD0663,Susan King,Chocolate Cake,Bread,6,349.22,2095.32,Debit Card,Cancelled,2025-08-08,Cavite
+ORD0664,Matthew Wilson,Baguette,Dessert,2,413.29,826.58,GCash,Completed,2026-03-22,Laguna
+ORD0665,Keith Smith,Cheesecake,Cake,9,410.62,3695.58,Credit Card,Pending,2025-09-10,Batangas
+ORD0666,Donna Terrell,Cheesecake,Bread,7,483.08,3381.56,Debit Card,Pending,2025-07-03,Laguna
+ORD0667,Nathaniel Ward,Donut,Pastry,2,193.43,386.86,Credit Card,Cancelled,2026-02-10,Cavite
+ORD0668,Margaret Davis,Baguette,Dessert,7,95.74,670.18,Debit Card,Completed,2026-02-10,Batangas
+ORD0669,Tina Wilson MD,Donut,Dessert,7,251.78,1762.46,GCash,Completed,2025-06-09,Manila
+ORD0670,Sarah Williams,Chocolate Cake,Cake,2,204.43,408.86,Cash,Pending,2026-04-30,Cavite
+ORD0671,Heather Adams,Cookies,Pastry,2,381.83,763.66,Cash,Completed,2025-08-18,Laguna
+ORD0672,Nicole Coleman,Baguette,Bread,9,60.16,541.44,GCash,Completed,2026-02-05,Manila
+ORD0673,Blake Kane,Chocolate Cake,Cake,7,216.0,1512.0,Cash,Pending,2026-02-16,Batangas
+ORD0674,Regina Ford,Brownie,Dessert,2,321.03,642.06,GCash,Pending,2025-11-02,Cavite
+ORD0675,Timothy Oneill,Baguette,Dessert,10,439.99,4399.9,GCash,Completed,2026-04-05,Laguna
+ORD0676,Susan Compton,Donut,Dessert,6,136.65,819.9,GCash,Cancelled,2025-08-24,Cavite
+ORD0677,Marie Holden,Chocolate Cake,Bread,1,263.33,263.33,Debit Card,Cancelled,2025-08-18,Cavite
+ORD0678,Mary Hanson,Brownie,Bread,5,177.26,886.3,Debit Card,Completed,2026-04-23,Manila
+ORD0679,John Burgess,Donut,Dessert,10,155.6,1556.0,GCash,Completed,2025-07-06,Batangas
+ORD0680,Michael Wilkinson,Baguette,Dessert,6,235.73,1414.38,Debit Card,Pending,2026-05-02,Laguna
+ORD0681,Sharon Medina,Banana Bread,Cake,10,408.97,4089.7,Credit Card,Completed,2025-12-06,Batangas
+ORD0682,Benjamin Sherman,Cupcake,Cake,6,148.22,889.32,GCash,Pending,2025-09-22,Manila
+ORD0683,Sara Sullivan,Croissant,Cake,6,328.58,1971.48,Credit Card,Completed,2025-07-11,Manila
+ORD0684,Eric Mann,Cookies,Cake,3,463.88,1391.64,GCash,Pending,2025-07-07,Batangas
+ORD0685,Dana Bailey,Donut,Pastry,9,237.01,2133.09,GCash,Cancelled,2025-06-24,Manila
+ORD0686,Mr. Zachary Wiley,Chocolate Cake,Pastry,5,114.07,570.35,Debit Card,Completed,2025-08-04,Manila
+ORD0687,Rhonda Hernandez,Cupcake,Dessert,7,403.29,2823.03,Cash,Cancelled,2025-08-03,Laguna
+ORD0688,Sydney Washington,Croissant,Cake,9,343.35,3090.15,Cash,Completed,2025-08-03,Laguna
+ORD0689,Ashley Harris,Chocolate Cake,Pastry,9,414.25,3728.25,GCash,Pending,2025-11-25,Batangas
+ORD0690,Dennis Phillips,Croissant,Bread,9,467.18,4204.62,Cash,Cancelled,2025-08-03,Batangas
+ORD0691,Carl Garrett,Donut,Bread,7,133.43,934.01,GCash,Completed,2025-06-16,Manila
+ORD0692,Paul Fox,Donut,Pastry,4,487.6,1950.4,Credit Card,Pending,2026-05-04,Cavite
+ORD0693,Ashley King,Cupcake,Cake,4,436.29,1745.16,Cash,Completed,2025-05-22,Batangas
+ORD0694,Katherine Harrison,Donut,Pastry,4,70.23,280.92,Cash,Cancelled,2025-08-26,Batangas
+ORD0695,Janet Nunez,Muffin,Bread,8,211.76,1694.08,Debit Card,Completed,2025-10-01,Cavite
+ORD0696,Rebecca Castaneda DDS,Chocolate Cake,Pastry,9,281.59,2534.31,Credit Card,Cancelled,2025-06-26,Cavite
+ORD0697,Nichole Mendoza,Croissant,Bread,5,282.28,1411.4,Credit Card,Pending,2025-11-13,Batangas
+ORD0698,Monique Evans,Cookies,Bread,7,463.75,3246.25,Credit Card,Cancelled,2025-05-16,Cavite
+ORD0699,Wanda Krueger,Croissant,Dessert,3,178.99,536.97,GCash,Pending,2026-02-05,Batangas
+ORD0700,Daniel Cannon,Cupcake,Dessert,5,355.9,1779.5,Debit Card,Completed,2025-11-15,Manila
+ORD0701,Jacqueline Cuevas,Cupcake,Cake,3,425.54,1276.62,GCash,Cancelled,2026-02-17,Cavite
+ORD0702,David Daniel,Brownie,Cake,10,486.0,4860.0,Cash,Pending,2025-07-08,Manila
+ORD0703,Richard Williams,Banana Bread,Bread,10,225.5,2255.0,Debit Card,Pending,2026-03-19,Batangas
+ORD0704,Nathan Moreno,Chocolate Cake,Pastry,4,299.28,1197.12,Debit Card,Completed,2026-03-11,Cavite
+ORD0705,Lori Martinez,Banana Bread,Cake,4,209.64,838.56,Cash,Cancelled,2025-11-19,Laguna
+ORD0706,Jason Vasquez,Baguette,Dessert,1,229.37,229.37,Cash,Cancelled,2025-07-28,Manila
+ORD0707,Edward Mcclain,Baguette,Cake,7,484.83,3393.81,Cash,Pending,2025-06-30,Manila
+ORD0708,Brian Rosales,Muffin,Cake,6,241.36,1448.16,Cash,Pending,2025-09-10,Manila
+ORD0709,Sarah Clayton,Cookies,Bread,1,370.31,370.31,Credit Card,Pending,2025-08-12,Batangas
+ORD0710,Max Parks,Banana Bread,Pastry,7,57.2,400.4,Credit Card,Pending,2025-07-17,Batangas
+ORD0711,Wendy Webster,Cookies,Dessert,1,165.09,165.09,GCash,Completed,2025-11-30,Manila
+ORD0712,Maria Hayes,Banana Bread,Cake,6,154.99,929.94,GCash,Cancelled,2025-06-02,Laguna
+ORD0713,Amanda Chapman,Cupcake,Cake,10,496.43,4964.3,Debit Card,Cancelled,2025-11-25,Manila
+ORD0714,Matthew Madden,Donut,Dessert,9,89.17,802.53,GCash,Completed,2026-04-12,Cavite
+ORD0715,Michael Davidson,Donut,Dessert,10,130.54,1305.4,GCash,Pending,2026-04-08,Batangas
+ORD0716,Sara Thomas,Cupcake,Cake,4,361.0,1444.0,GCash,Cancelled,2025-05-21,Batangas
+ORD0717,Brandy Shepherd,Baguette,Cake,4,388.67,1554.68,Debit Card,Completed,2025-07-28,Cavite
+ORD0718,Gary Contreras,Muffin,Pastry,9,72.21,649.89,Cash,Completed,2026-02-08,Laguna
+ORD0719,Sabrina Hansen,Banana Bread,Pastry,7,463.93,3247.51,Cash,Pending,2026-01-18,Batangas
+ORD0720,Kristen Gonzales,Cookies,Cake,6,482.19,2893.14,Debit Card,Cancelled,2026-01-23,Batangas
+ORD0721,Jacob Howard,Cupcake,Dessert,3,272.36,817.08,Debit Card,Cancelled,2025-07-20,Batangas
+ORD0722,Elizabeth Vaughan,Donut,Pastry,2,94.14,188.28,Credit Card,Completed,2025-12-15,Cavite
+ORD0723,James Davis,Croissant,Cake,4,419.6,1678.4,Cash,Completed,2026-04-15,Batangas
+ORD0724,Kimberly Tran,Chocolate Cake,Dessert,8,416.15,3329.2,Credit Card,Pending,2025-11-18,Manila
+ORD0725,Derrick Stewart,Cheesecake,Dessert,6,89.75,538.5,Debit Card,Pending,2025-07-28,Cavite
+ORD0726,Crystal Gonzales,Donut,Bread,3,227.42,682.26,Cash,Pending,2025-08-08,Manila
+ORD0727,Peggy Ortiz,Baguette,Bread,3,317.87,953.61,Cash,Cancelled,2026-04-12,Laguna
+ORD0728,Ivan Adams,Chocolate Cake,Dessert,3,54.53,163.59,Cash,Pending,2026-01-17,Cavite
+ORD0729,Ms. Emma Mejia MD,Brownie,Cake,6,345.67,2074.02,GCash,Completed,2026-01-21,Batangas
+ORD0730,Sheryl Gardner,Croissant,Pastry,2,82.2,164.4,Debit Card,Pending,2026-03-31,Batangas
+ORD0731,Brandon Jones,Chocolate Cake,Bread,6,410.37,2462.22,Credit Card,Completed,2025-09-21,Manila
+ORD0732,Mary Martinez MD,Donut,Dessert,5,252.3,1261.5,GCash,Cancelled,2026-01-20,Manila
+ORD0733,Misty Taylor,Cheesecake,Pastry,2,287.66,575.32,Debit Card,Cancelled,2026-05-07,Manila
+ORD0734,Andrew Adams,Muffin,Cake,6,264.91,1589.46,GCash,Cancelled,2025-09-08,Cavite
+ORD0735,Leslie Simon,Baguette,Cake,9,468.19,4213.71,Cash,Pending,2025-10-28,Cavite
+ORD0736,Anthony Rojas,Cheesecake,Pastry,7,455.33,3187.31,GCash,Cancelled,2026-04-15,Batangas
+ORD0737,Adam Watson,Chocolate Cake,Cake,1,402.98,402.98,Credit Card,Cancelled,2026-04-28,Cavite
+ORD0738,Scott Gamble,Donut,Bread,1,51.58,51.58,Credit Card,Completed,2025-08-27,Batangas
+ORD0739,Henry Owen,Banana Bread,Bread,8,249.85,1998.8,Debit Card,Completed,2025-06-06,Batangas
+ORD0740,Jessica Wilson,Baguette,Dessert,6,198.1,1188.6,Credit Card,Cancelled,2026-01-13,Batangas
+ORD0741,Jennifer Gill,Chocolate Cake,Pastry,2,423.57,847.14,Credit Card,Completed,2025-11-28,Cavite
+ORD0742,Victoria Phillips,Banana Bread,Dessert,3,361.45,1084.35,Credit Card,Cancelled,2025-12-15,Cavite
+ORD0743,Brandon Barajas,Muffin,Cake,6,68.93,413.58,Debit Card,Pending,2025-05-16,Manila
+ORD0744,Melanie Jackson,Muffin,Pastry,10,348.81,3488.1,GCash,Pending,2026-03-07,Cavite
+ORD0745,Jodi Cook,Cookies,Bread,3,497.03,1491.09,Cash,Pending,2026-02-05,Manila
+ORD0746,David Cobb,Chocolate Cake,Cake,6,289.44,1736.64,Debit Card,Cancelled,2025-07-16,Laguna
+ORD0747,Pamela Rowland,Cheesecake,Bread,5,80.23,401.15,Credit Card,Completed,2026-02-14,Cavite
+ORD0748,Karen Black,Brownie,Bread,4,198.85,795.4,Debit Card,Pending,2025-09-25,Manila
+ORD0749,Margaret Lara,Brownie,Cake,3,420.08,1260.24,Cash,Cancelled,2025-07-07,Manila
+ORD0750,Reginald Huang,Cookies,Cake,5,488.11,2440.55,Credit Card,Completed,2026-04-21,Batangas
+ORD0751,Joseph Gutierrez,Brownie,Cake,2,358.03,716.06,Credit Card,Pending,2026-01-20,Manila
+ORD0752,Daniel Frazier,Donut,Cake,2,255.33,510.66,Credit Card,Cancelled,2026-03-17,Cavite
+ORD0753,Mark Nixon,Baguette,Bread,3,274.22,822.66,Debit Card,Completed,2025-09-10,Cavite
+ORD0754,Stacey Williams,Banana Bread,Pastry,2,206.66,413.32,Credit Card,Completed,2025-07-21,Laguna
+ORD0755,Margaret Lopez,Donut,Pastry,1,223.42,223.42,Debit Card,Cancelled,2026-03-13,Manila
+ORD0756,Melanie Boyer,Brownie,Bread,2,120.98,241.96,Credit Card,Cancelled,2025-11-02,Batangas
+ORD0757,Jessica Campbell,Brownie,Cake,1,450.05,450.05,Credit Card,Cancelled,2025-09-26,Cavite
+ORD0758,Christopher Wood Jr.,Croissant,Dessert,5,406.47,2032.35,Debit Card,Cancelled,2026-02-19,Laguna
+ORD0759,Louis Warner,Muffin,Bread,10,414.2,4142.0,Cash,Cancelled,2025-06-14,Manila
+ORD0760,Caleb Davidson,Banana Bread,Dessert,5,288.46,1442.3,Credit Card,Cancelled,2025-09-03,Laguna
+ORD0761,Preston Anderson,Baguette,Bread,2,484.39,968.78,Cash,Cancelled,2025-11-28,Cavite
+ORD0762,Mary Hernandez,Cupcake,Bread,2,82.36,164.72,GCash,Pending,2026-02-01,Cavite
+ORD0763,Austin Mcclure,Baguette,Dessert,4,230.33,921.32,Credit Card,Pending,2026-02-01,Cavite
+ORD0764,Brenda Ramirez,Croissant,Cake,1,249.93,249.93,Cash,Cancelled,2026-03-05,Cavite
+ORD0765,Virginia Banks,Cheesecake,Bread,1,298.51,298.51,Debit Card,Pending,2025-06-08,Manila
+ORD0766,Cindy Padilla,Croissant,Bread,2,308.54,617.08,Debit Card,Pending,2025-09-22,Laguna
+ORD0767,Rachel Barrett,Cheesecake,Dessert,9,225.72,2031.48,Cash,Completed,2025-12-23,Manila
+ORD0768,Melanie Gomez,Cheesecake,Bread,10,299.79,2997.9,Credit Card,Cancelled,2026-02-15,Manila
+ORD0769,Amber Jackson,Brownie,Cake,3,290.39,871.17,Cash,Completed,2026-03-26,Laguna
+ORD0770,Wendy Sanford,Cheesecake,Pastry,7,64.57,451.99,Cash,Cancelled,2026-04-28,Manila
+ORD0771,James Clark,Chocolate Cake,Dessert,8,93.94,751.52,Debit Card,Completed,2025-12-30,Batangas
+ORD0772,Robert Brown,Chocolate Cake,Dessert,5,250.65,1253.25,Credit Card,Pending,2025-12-11,Batangas
+ORD0773,John Nguyen,Chocolate Cake,Bread,2,95.01,190.02,Cash,Completed,2026-03-28,Laguna
+ORD0774,Todd Lopez,Baguette,Bread,3,182.95,548.85,Debit Card,Pending,2026-03-18,Cavite
+ORD0775,Nancy Nunez,Muffin,Pastry,4,121.82,487.28,Debit Card,Cancelled,2025-12-31,Manila
+ORD0776,Jacob Smith,Cheesecake,Cake,6,373.97,2243.82,Cash,Cancelled,2025-12-29,Manila
+ORD0777,Anthony Dawson,Chocolate Cake,Pastry,8,195.33,1562.64,Cash,Completed,2025-10-23,Batangas
+ORD0778,Lisa Johnston,Baguette,Pastry,6,258.15,1548.9,GCash,Pending,2026-03-16,Manila
+ORD0779,Brian Lopez,Cheesecake,Cake,9,355.45,3199.05,Credit Card,Cancelled,2025-06-25,Batangas
+ORD0780,Thomas Martin,Cheesecake,Pastry,9,342.6,3083.4,Debit Card,Pending,2025-06-17,Cavite
+ORD0781,Donald Johnston DDS,Muffin,Pastry,1,311.4,311.4,Credit Card,Cancelled,2025-10-13,Batangas
+ORD0782,Kelly Ross,Croissant,Pastry,3,183.15,549.45,Credit Card,Cancelled,2025-09-11,Cavite
+ORD0783,David Lucas,Cheesecake,Bread,3,264.91,794.73,Debit Card,Cancelled,2026-03-14,Batangas
+ORD0784,David Moody,Banana Bread,Cake,1,227.97,227.97,GCash,Pending,2026-03-23,Manila
+ORD0785,Andrea Jackson,Baguette,Dessert,1,265.79,265.79,Debit Card,Completed,2025-06-23,Laguna
+ORD0786,Christie Gill,Cupcake,Pastry,1,111.45,111.45,Cash,Completed,2025-10-05,Manila
+ORD0787,Jessica Glover,Chocolate Cake,Cake,3,413.34,1240.02,Credit Card,Completed,2025-09-23,Laguna
+ORD0788,Eric Brooks,Cheesecake,Pastry,6,191.15,1146.9,Debit Card,Completed,2025-09-21,Manila
+ORD0789,Alex Castro,Cheesecake,Bread,1,291.29,291.29,GCash,Pending,2025-06-29,Laguna
+ORD0790,Barry Martinez,Cupcake,Dessert,3,458.06,1374.18,Cash,Completed,2025-10-01,Batangas
+ORD0791,Wayne Arroyo,Brownie,Pastry,5,330.53,1652.65,GCash,Completed,2025-12-01,Cavite
+ORD0792,Paul Walker,Croissant,Pastry,4,137.83,551.32,Cash,Pending,2025-06-10,Laguna
+ORD0793,Stephanie Thomas,Donut,Pastry,5,467.61,2338.05,Debit Card,Pending,2025-10-27,Laguna
+ORD0794,Tara Martinez,Brownie,Bread,6,312.82,1876.92,Cash,Completed,2025-09-03,Batangas
+ORD0795,Sarah Nelson,Donut,Dessert,8,184.05,1472.4,Credit Card,Cancelled,2025-11-10,Cavite
+ORD0796,Jessica Chapman,Croissant,Cake,1,214.62,214.62,Cash,Pending,2025-09-10,Manila
+ORD0797,Brittany Coleman,Brownie,Cake,8,106.46,851.68,Credit Card,Pending,2026-02-23,Batangas
+ORD0798,Christina Humphrey,Cookies,Cake,9,376.58,3389.22,Debit Card,Pending,2026-03-06,Batangas
+ORD0799,Brandon Maxwell,Brownie,Cake,4,345.24,1380.96,Cash,Pending,2025-12-23,Laguna
+ORD0800,Maria Harrington,Cheesecake,Cake,4,439.35,1757.4,Cash,Cancelled,2025-09-13,Batangas
+ORD0801,Linda Salinas,Baguette,Bread,2,136.35,272.7,Cash,Cancelled,2026-04-19,Manila
+ORD0802,Eric Mcintyre,Banana Bread,Bread,3,420.56,1261.68,Cash,Pending,2026-03-03,Laguna
+ORD0803,Adam Thompson,Chocolate Cake,Cake,1,375.61,375.61,Cash,Cancelled,2026-01-20,Batangas
+ORD0804,Walter Spencer,Muffin,Cake,7,81.39,569.73,Credit Card,Completed,2025-08-30,Laguna
+ORD0805,Sarah Brown,Cookies,Bread,5,238.19,1190.95,Debit Card,Completed,2026-03-21,Laguna
+ORD0806,Sandra Nguyen,Baguette,Pastry,4,489.64,1958.56,Cash,Cancelled,2025-09-26,Cavite
+ORD0807,Karen Mcgee,Cookies,Cake,5,428.89,2144.45,Credit Card,Pending,2026-02-07,Cavite
+ORD0808,Daniel Wilson,Croissant,Dessert,5,100.77,503.85,GCash,Pending,2026-05-12,Cavite
+ORD0809,Tonya Garcia,Muffin,Bread,1,174.82,174.82,GCash,Cancelled,2025-09-07,Laguna
+ORD0810,Jonathan Miles,Muffin,Bread,4,143.98,575.92,GCash,Completed,2026-03-04,Manila
+ORD0811,Alexandra Ramirez,Cheesecake,Cake,10,199.13,1991.3,Cash,Cancelled,2025-08-27,Laguna
+ORD0812,Robin Thomas,Donut,Dessert,9,231.7,2085.3,Cash,Pending,2025-07-24,Manila
+ORD0813,Heather Jensen,Brownie,Bread,9,403.55,3631.95,Credit Card,Pending,2026-01-17,Laguna
+ORD0814,Felicia Kelly,Brownie,Dessert,9,90.78,817.02,Cash,Pending,2025-08-20,Manila
+ORD0815,Katherine Johnson,Chocolate Cake,Dessert,6,64.19,385.14,Credit Card,Pending,2026-02-09,Batangas
+ORD0816,Abigail Steele,Donut,Bread,9,420.23,3782.07,Cash,Pending,2026-05-09,Manila
+ORD0817,Jeffrey Sullivan,Cupcake,Pastry,8,357.93,2863.44,Cash,Cancelled,2025-10-19,Manila
+ORD0818,Amanda Martinez,Baguette,Dessert,7,373.99,2617.93,Cash,Cancelled,2025-09-16,Batangas
+ORD0819,Daniel Clark,Muffin,Pastry,8,293.76,2350.08,Cash,Pending,2025-07-04,Manila
+ORD0820,Ronald Curtis,Donut,Pastry,8,408.82,3270.56,GCash,Cancelled,2026-04-16,Batangas
+ORD0821,Keith Smith,Cheesecake,Pastry,2,398.27,796.54,GCash,Cancelled,2025-12-19,Batangas
+ORD0822,James Thomas,Cupcake,Dessert,4,472.99,1891.96,Cash,Cancelled,2025-08-09,Laguna
+ORD0823,Michael Smith,Muffin,Cake,2,227.7,455.4,Credit Card,Pending,2025-10-23,Cavite
+ORD0824,Shannon Middleton,Cheesecake,Pastry,10,328.04,3280.4,Credit Card,Pending,2025-07-07,Manila
+ORD0825,Matthew Cameron,Cupcake,Cake,3,459.94,1379.82,Cash,Cancelled,2026-01-10,Laguna
+ORD0826,Emily Baker,Donut,Pastry,8,121.47,971.76,Cash,Cancelled,2026-02-04,Batangas
+ORD0827,Jose Garcia,Chocolate Cake,Dessert,8,52.85,422.8,Credit Card,Pending,2025-12-17,Batangas
+ORD0828,Adam Jackson,Baguette,Pastry,6,297.96,1787.76,Debit Card,Cancelled,2025-08-11,Cavite
+ORD0829,Dennis Brown,Croissant,Dessert,9,197.81,1780.29,Debit Card,Completed,2025-10-15,Cavite
+ORD0830,Ann Gutierrez,Croissant,Cake,10,247.3,2473.0,Credit Card,Completed,2026-02-25,Laguna
+ORD0831,Brittany Williams,Chocolate Cake,Pastry,6,234.63,1407.78,Credit Card,Pending,2025-05-20,Cavite
+ORD0832,Mark Vega,Cupcake,Bread,1,351.99,351.99,Cash,Completed,2025-08-24,Laguna
+ORD0833,Jonathan Jones,Chocolate Cake,Bread,9,386.76,3480.84,Cash,Pending,2026-01-21,Batangas
+ORD0834,Kevin Singh,Cupcake,Pastry,7,199.31,1395.17,Cash,Pending,2025-09-21,Cavite
+ORD0835,Jennifer Khan,Croissant,Cake,5,337.8,1689.0,Cash,Completed,2025-08-29,Cavite
+ORD0836,Elizabeth Levine,Chocolate Cake,Pastry,4,492.13,1968.52,Credit Card,Cancelled,2026-02-14,Manila
+ORD0837,Brittany Young,Cookies,Pastry,10,173.01,1730.1,Debit Card,Pending,2025-06-14,Manila
+ORD0838,Rodney Harrison,Brownie,Bread,2,134.14,268.28,Credit Card,Completed,2025-05-16,Batangas
+ORD0839,Michael Fritz,Chocolate Cake,Dessert,5,172.81,864.05,Debit Card,Cancelled,2025-08-20,Batangas
+ORD0840,Kristopher Guerrero,Muffin,Pastry,8,388.79,3110.32,Credit Card,Cancelled,2025-12-21,Manila
+ORD0841,Megan Barber,Cupcake,Dessert,6,55.11,330.66,Debit Card,Pending,2025-08-09,Cavite
+ORD0842,Tammy Roberts,Croissant,Dessert,8,472.83,3782.64,Cash,Completed,2025-09-19,Cavite
+ORD0843,Ashley Zavala,Cupcake,Cake,2,61.65,123.3,Cash,Completed,2026-04-24,Cavite
+ORD0844,Katrina Sanchez,Cheesecake,Cake,8,308.68,2469.44,Cash,Pending,2025-07-12,Batangas
+ORD0845,Kimberly Peterson,Cupcake,Dessert,4,63.08,252.32,GCash,Completed,2025-07-30,Manila
+ORD0846,Cody Alexander,Chocolate Cake,Dessert,3,374.46,1123.38,Credit Card,Completed,2025-10-17,Cavite
+ORD0847,Daniel Mccullough,Chocolate Cake,Cake,6,437.67,2626.02,GCash,Cancelled,2026-03-10,Laguna
+ORD0848,Rebecca Sanders,Baguette,Cake,6,384.33,2305.98,Debit Card,Completed,2026-02-23,Batangas
+ORD0849,Timothy Gray,Donut,Pastry,3,349.55,1048.65,Debit Card,Cancelled,2025-09-19,Manila
+ORD0850,Jennifer Henderson,Cupcake,Bread,6,264.97,1589.82,GCash,Cancelled,2025-11-25,Laguna
+ORD0851,Samuel Martin,Croissant,Bread,2,59.91,119.82,Cash,Cancelled,2026-03-22,Batangas
+ORD0852,Joseph Horne,Cheesecake,Bread,2,322.41,644.82,Cash,Pending,2026-03-15,Laguna
+ORD0853,Jerry Graham,Donut,Dessert,8,481.92,3855.36,GCash,Pending,2025-06-25,Laguna
+ORD0854,Adrian Anderson,Brownie,Dessert,10,174.82,1748.2,Credit Card,Completed,2025-07-18,Laguna
+ORD0855,Scott King,Banana Bread,Cake,5,389.97,1949.85,GCash,Pending,2026-03-07,Laguna
+ORD0856,Stacy Bush,Donut,Cake,6,332.49,1994.94,Debit Card,Completed,2025-09-04,Cavite
+ORD0857,Christopher Clark,Brownie,Bread,7,410.13,2870.91,GCash,Cancelled,2025-05-18,Manila
+ORD0858,Bradley Schmidt,Brownie,Pastry,1,249.35,249.35,GCash,Cancelled,2026-01-19,Cavite
+ORD0859,Robert Blake,Brownie,Pastry,9,416.51,3748.59,GCash,Pending,2026-05-13,Cavite
+ORD0860,Leah Taylor,Muffin,Cake,5,445.16,2225.8,Debit Card,Cancelled,2025-09-06,Laguna
+ORD0861,Wendy Anderson,Brownie,Cake,1,150.7,150.7,Credit Card,Cancelled,2025-10-21,Batangas
+ORD0862,Greg Long,Chocolate Cake,Pastry,8,95.06,760.48,Credit Card,Pending,2026-04-10,Cavite
+ORD0863,William Ho,Brownie,Dessert,6,191.61,1149.66,Debit Card,Cancelled,2025-11-01,Laguna
+ORD0864,Jamie Boyd,Muffin,Dessert,10,101.97,1019.7,Cash,Completed,2025-08-07,Cavite
+ORD0865,Samantha Ward,Banana Bread,Cake,8,128.32,1026.56,Credit Card,Cancelled,2025-05-30,Laguna
+ORD0866,Amy Schwartz,Cheesecake,Dessert,4,162.87,651.48,GCash,Completed,2026-01-13,Batangas
+ORD0867,Mark Estrada,Croissant,Bread,8,449.13,3593.04,GCash,Cancelled,2026-02-04,Batangas
+ORD0868,Erica Payne,Cheesecake,Bread,1,349.53,349.53,Cash,Completed,2026-01-20,Batangas
+ORD0869,Desiree Graves,Cheesecake,Dessert,5,468.64,2343.2,Cash,Completed,2025-08-21,Laguna
+ORD0870,Lauren Collins,Banana Bread,Dessert,10,159.37,1593.7,Cash,Cancelled,2026-04-02,Manila
+ORD0871,Joel Jennings,Cheesecake,Pastry,1,312.05,312.05,Credit Card,Cancelled,2025-10-04,Manila
+ORD0872,Catherine Perez,Donut,Bread,1,490.39,490.39,Debit Card,Cancelled,2025-06-20,Batangas
+ORD0873,Jaclyn Cruz,Brownie,Bread,3,375.73,1127.19,Cash,Completed,2026-04-13,Cavite
+ORD0874,Edwin Williamson,Cheesecake,Dessert,1,334.18,334.18,Cash,Completed,2025-07-13,Laguna
+ORD0875,Kathryn Hart,Brownie,Pastry,8,378.29,3026.32,Debit Card,Completed,2025-12-21,Batangas
+ORD0876,James Howard,Cupcake,Bread,5,432.57,2162.85,Credit Card,Completed,2025-11-20,Laguna
+ORD0877,Jessica Moore,Chocolate Cake,Pastry,2,137.6,275.2,GCash,Completed,2025-11-04,Cavite
+ORD0878,Angela Harris,Brownie,Bread,10,214.92,2149.2,Credit Card,Pending,2025-08-07,Laguna
+ORD0879,Brian Hodge,Cupcake,Pastry,2,345.83,691.66,Cash,Cancelled,2026-02-11,Laguna
+ORD0880,Andrew Martin,Muffin,Bread,2,267.53,535.06,Debit Card,Completed,2026-03-24,Batangas
+ORD0881,Jeffery Lee,Croissant,Dessert,4,414.81,1659.24,Debit Card,Cancelled,2025-10-22,Manila
+ORD0882,Jennifer Neal,Chocolate Cake,Bread,5,264.9,1324.5,GCash,Completed,2026-04-23,Cavite
+ORD0883,Thomas Rogers,Cupcake,Cake,2,455.4,910.8,GCash,Completed,2026-01-10,Batangas
+ORD0884,Edward Underwood,Banana Bread,Pastry,9,224.71,2022.39,Cash,Completed,2025-06-07,Manila
+ORD0885,Jesse Morris,Donut,Bread,9,191.03,1719.27,Cash,Pending,2025-09-22,Batangas
+ORD0886,Anthony Young,Croissant,Pastry,5,154.37,771.85,Cash,Pending,2025-11-29,Cavite
+ORD0887,Cynthia White,Croissant,Bread,1,101.0,101.0,Debit Card,Cancelled,2025-12-07,Cavite
+ORD0888,Kimberly George,Cookies,Pastry,1,191.77,191.77,GCash,Cancelled,2025-08-05,Batangas
+ORD0889,Andrew Carroll,Baguette,Bread,5,130.08,650.4,Cash,Cancelled,2026-03-11,Cavite
+ORD0890,Dorothy Carr,Donut,Dessert,3,134.15,402.45,GCash,Pending,2026-05-14,Batangas
+ORD0891,Zachary Stewart,Donut,Cake,6,186.38,1118.28,GCash,Cancelled,2026-01-27,Laguna
+ORD0892,Elizabeth Lee,Chocolate Cake,Dessert,2,347.72,695.44,Credit Card,Completed,2026-02-23,Laguna
+ORD0893,Daniel Wilson,Muffin,Cake,2,246.98,493.96,Debit Card,Completed,2025-06-06,Manila
+ORD0894,Ashley Jenkins,Croissant,Cake,6,132.26,793.56,Debit Card,Cancelled,2026-01-29,Manila
+ORD0895,Omar Steele,Cookies,Dessert,7,108.94,762.58,Credit Card,Pending,2026-01-08,Batangas
+ORD0896,Courtney Rodriguez,Donut,Cake,4,173.22,692.88,GCash,Completed,2025-12-03,Cavite
+ORD0897,Jacob Kent,Cupcake,Pastry,7,240.05,1680.35,Credit Card,Completed,2025-06-17,Laguna
+ORD0898,Sheila Keller,Cookies,Bread,8,229.25,1834.0,Debit Card,Completed,2025-07-13,Batangas
+ORD0899,Andrew Moore,Donut,Pastry,4,271.7,1086.8,Debit Card,Cancelled,2026-04-02,Laguna
+ORD0900,Veronica Smith,Cookies,Bread,3,489.12,1467.36,Debit Card,Pending,2025-12-11,Manila
+ORD0901,Autumn Horton,Muffin,Bread,5,342.85,1714.25,GCash,Cancelled,2025-08-19,Manila
+ORD0902,Yolanda Wong,Donut,Cake,4,432.82,1731.28,Debit Card,Completed,2025-10-20,Laguna
+ORD0903,Andrea Guerrero,Croissant,Dessert,5,118.76,593.8,Debit Card,Completed,2026-04-22,Batangas
+ORD0904,Jacob Bennett,Donut,Bread,2,407.44,814.88,GCash,Completed,2025-06-20,Batangas
+ORD0905,Eric Taylor,Cupcake,Dessert,2,229.87,459.74,Credit Card,Completed,2025-11-13,Manila
+ORD0906,Travis Werner,Muffin,Bread,5,169.92,849.6,GCash,Pending,2025-06-27,Cavite
+ORD0907,Robert Hayes,Baguette,Pastry,3,54.2,162.6,GCash,Cancelled,2026-01-12,Manila
+ORD0908,Brian Burgess,Cookies,Pastry,6,326.89,1961.34,Cash,Completed,2026-04-25,Cavite
+ORD0909,Edward Jones,Brownie,Bread,7,95.42,667.94,Credit Card,Cancelled,2025-05-28,Cavite
+ORD0910,Andrew Miller,Chocolate Cake,Cake,3,377.2,1131.6,Debit Card,Cancelled,2025-05-20,Laguna
+ORD0911,Matthew Vaughn,Croissant,Cake,3,154.5,463.5,Credit Card,Cancelled,2026-04-21,Cavite
+ORD0912,Jennifer Case,Donut,Dessert,1,180.07,180.07,Debit Card,Cancelled,2025-10-17,Cavite
+ORD0913,Kristine Smith,Baguette,Dessert,1,177.55,177.55,Debit Card,Cancelled,2025-11-05,Batangas
+ORD0914,Carol Turner,Cupcake,Bread,7,491.2,3438.4,GCash,Pending,2025-09-05,Manila
+ORD0915,Ethan Cooper,Banana Bread,Dessert,5,435.87,2179.35,Credit Card,Cancelled,2026-04-07,Manila
+ORD0916,Denise Hall,Cheesecake,Bread,9,341.96,3077.64,Cash,Pending,2025-11-09,Batangas
+ORD0917,Sherri Christensen,Cheesecake,Bread,2,79.16,158.32,Credit Card,Cancelled,2025-07-09,Cavite
+ORD0918,Shane Maldonado,Cookies,Dessert,10,300.43,3004.3,GCash,Completed,2025-11-15,Laguna
+ORD0919,Jaime Jones,Baguette,Bread,8,54.15,433.2,Debit Card,Completed,2025-09-16,Cavite
+ORD0920,Francisco Blevins,Muffin,Bread,2,465.24,930.48,Credit Card,Cancelled,2025-06-22,Manila
+ORD0921,Frederick Hamilton,Muffin,Bread,4,495.06,1980.24,GCash,Pending,2025-09-28,Laguna
+ORD0922,Michelle Thomas,Donut,Dessert,5,459.5,2297.5,Credit Card,Pending,2026-04-25,Batangas
+ORD0923,Stacey Daniel,Croissant,Dessert,3,362.54,1087.62,GCash,Cancelled,2026-05-10,Batangas
+ORD0924,Jennifer Jenkins,Chocolate Cake,Dessert,1,183.3,183.3,Credit Card,Pending,2025-06-14,Manila
+ORD0925,Cody Steele,Cupcake,Dessert,2,169.97,339.94,Cash,Completed,2026-02-21,Manila
+ORD0926,Andrea Rosario,Cheesecake,Pastry,10,269.95,2699.5,Cash,Cancelled,2025-10-17,Batangas
+ORD0927,Lee Garcia,Muffin,Dessert,8,416.49,3331.92,Cash,Pending,2025-11-23,Batangas
+ORD0928,Denise Phillips,Brownie,Bread,6,157.23,943.38,GCash,Completed,2025-09-24,Manila
+ORD0929,David Barnes,Cookies,Cake,2,125.57,251.14,Credit Card,Completed,2025-07-31,Batangas
+ORD0930,Philip Johnson,Baguette,Bread,1,279.16,279.16,Cash,Completed,2025-09-07,Laguna
+ORD0931,Christopher Henry,Brownie,Cake,10,384.1,3841.0,Debit Card,Completed,2025-07-06,Laguna
+ORD0932,Alexis Romero,Banana Bread,Cake,3,479.57,1438.71,Cash,Pending,2026-03-14,Batangas
+ORD0933,Samuel James,Muffin,Bread,10,354.96,3549.6,Debit Card,Pending,2026-03-16,Cavite
+ORD0934,Jason Cook,Baguette,Pastry,1,100.13,100.13,Debit Card,Cancelled,2025-12-23,Batangas
+ORD0935,Matthew Hansen,Muffin,Pastry,3,148.57,445.71,GCash,Completed,2026-02-02,Laguna
+ORD0936,Amanda Rodriguez,Brownie,Bread,8,425.92,3407.36,Debit Card,Completed,2026-04-10,Laguna
+ORD0937,Alyssa Santiago,Cookies,Dessert,1,292.94,292.94,GCash,Cancelled,2025-09-03,Batangas
+ORD0938,George Bell,Cheesecake,Bread,10,353.64,3536.4,GCash,Completed,2026-02-20,Cavite
+ORD0939,Bruce Garcia,Banana Bread,Pastry,4,133.31,533.24,Credit Card,Cancelled,2026-03-15,Cavite
+ORD0940,Veronica Mason PhD,Banana Bread,Cake,4,320.16,1280.64,Debit Card,Pending,2026-02-23,Laguna
+ORD0941,Dana Delgado,Cookies,Dessert,3,372.02,1116.06,Cash,Pending,2026-03-06,Batangas
+ORD0942,Barbara Williamson,Banana Bread,Cake,6,356.64,2139.84,Cash,Pending,2025-08-14,Manila
+ORD0943,Ann Booker,Donut,Cake,1,395.83,395.83,Cash,Cancelled,2025-09-18,Cavite
+ORD0944,Jessica Maldonado,Muffin,Dessert,3,221.36,664.08,Cash,Pending,2025-07-10,Batangas
+ORD0945,Richard Cisneros,Cupcake,Cake,2,50.87,101.74,Cash,Completed,2026-03-19,Manila
+ORD0946,Joyce Green,Cheesecake,Dessert,5,397.96,1989.8,GCash,Cancelled,2025-11-15,Cavite
+ORD0947,Kelly Davis,Donut,Dessert,5,108.72,543.6,GCash,Pending,2025-07-03,Manila
+ORD0948,Angela Pierce,Muffin,Bread,5,396.89,1984.45,Debit Card,Cancelled,2025-07-12,Batangas
+ORD0949,Amy Thompson DDS,Donut,Pastry,7,488.03,3416.21,Credit Card,Completed,2025-08-20,Cavite
+ORD0950,Christopher Cunningham,Donut,Dessert,3,405.49,1216.47,Cash,Cancelled,2025-07-14,Batangas
+ORD0951,Nathan Hernandez,Donut,Pastry,1,125.81,125.81,Cash,Cancelled,2025-08-08,Laguna
+ORD0952,Wendy Terry,Muffin,Bread,9,485.1,4365.9,Credit Card,Completed,2025-07-22,Laguna
+ORD0953,David Lynch,Baguette,Dessert,1,52.81,52.81,Debit Card,Pending,2026-03-26,Cavite
+ORD0954,Christie Monroe,Cupcake,Pastry,6,384.88,2309.28,GCash,Completed,2026-02-15,Laguna
+ORD0955,David Turner,Cupcake,Cake,8,351.11,2808.88,Cash,Pending,2025-09-11,Manila
+ORD0956,Lisa Hancock MD,Brownie,Bread,10,328.94,3289.4,Debit Card,Cancelled,2025-12-13,Batangas
+ORD0957,Kaitlin Jackson,Cupcake,Dessert,7,141.5,990.5,GCash,Completed,2025-12-02,Manila
+ORD0958,James Melton,Banana Bread,Pastry,1,349.52,349.52,Debit Card,Pending,2026-02-24,Cavite
+ORD0959,Danielle Jimenez,Cupcake,Bread,10,142.38,1423.8,Debit Card,Cancelled,2025-07-18,Batangas
+ORD0960,Connor Pierce,Donut,Cake,10,489.12,4891.2,Credit Card,Cancelled,2026-01-01,Batangas
+ORD0961,Michael Cuevas,Banana Bread,Bread,6,371.35,2228.1,Cash,Cancelled,2025-12-12,Cavite
+ORD0962,Stephanie Williams,Cookies,Pastry,10,257.98,2579.8,Cash,Pending,2025-11-01,Laguna
+ORD0963,Jessica Williams,Croissant,Pastry,7,173.16,1212.12,Credit Card,Cancelled,2026-04-28,Cavite
+ORD0964,Brooke Park,Donut,Dessert,1,243.57,243.57,GCash,Cancelled,2025-06-20,Laguna
+ORD0965,Sue Greene,Croissant,Dessert,1,95.72,95.72,GCash,Completed,2025-05-17,Manila
+ORD0966,Christopher Chavez,Donut,Dessert,3,358.26,1074.78,GCash,Completed,2026-05-03,Manila
+ORD0967,Kyle Hudson,Donut,Dessert,5,150.33,751.65,Credit Card,Pending,2025-09-23,Cavite
+ORD0968,Meredith Greene,Banana Bread,Pastry,5,58.3,291.5,Credit Card,Completed,2025-05-25,Batangas
+ORD0969,Rachel Mata,Cupcake,Bread,8,483.93,3871.44,Cash,Pending,2025-12-20,Batangas
+ORD0970,Kathleen Morgan,Cupcake,Dessert,6,482.66,2895.96,Cash,Cancelled,2025-09-12,Batangas
+ORD0971,Michael White,Cookies,Bread,5,288.64,1443.2,Cash,Pending,2025-06-07,Manila
+ORD0972,Miguel Clark,Cheesecake,Bread,1,305.2,305.2,Cash,Cancelled,2025-07-11,Laguna
+ORD0973,Kevin Washington,Baguette,Pastry,6,221.04,1326.24,GCash,Pending,2026-04-23,Laguna
+ORD0974,Rachael Jimenez,Croissant,Cake,6,214.24,1285.44,Credit Card,Completed,2026-02-03,Laguna
+ORD0975,Miguel Alexander,Cheesecake,Dessert,6,164.97,989.82,Credit Card,Completed,2026-03-23,Cavite
+ORD0976,Ashley Thomas,Chocolate Cake,Bread,8,359.15,2873.2,GCash,Completed,2026-03-12,Batangas
+ORD0977,Christian Mueller,Cheesecake,Dessert,9,482.08,4338.72,Debit Card,Pending,2026-02-05,Laguna
+ORD0978,Patricia Wolf,Donut,Bread,2,73.41,146.82,Cash,Cancelled,2025-06-12,Manila
+ORD0979,Jamie Patel,Banana Bread,Cake,4,343.33,1373.32,Cash,Completed,2025-07-29,Laguna
+ORD0980,Sherry Lee DDS,Muffin,Bread,7,460.38,3222.66,Cash,Pending,2025-08-17,Cavite
+ORD0981,Victoria Jackson,Cookies,Dessert,2,401.9,803.8,Debit Card,Completed,2025-05-22,Manila
+ORD0982,Kevin Wood,Muffin,Dessert,10,410.54,4105.4,Cash,Completed,2025-12-27,Manila
+ORD0983,Joseph Hill,Cupcake,Cake,9,120.85,1087.65,Credit Card,Cancelled,2026-02-19,Batangas
+ORD0984,Sheryl Walker,Cookies,Pastry,7,58.89,412.23,GCash,Pending,2025-05-29,Cavite
+ORD0985,Amanda Clark,Muffin,Dessert,8,137.77,1102.16,GCash,Pending,2026-04-14,Manila
+ORD0986,Erica Frank,Cupcake,Pastry,3,195.11,585.33,GCash,Cancelled,2025-10-20,Manila
+ORD0987,Brian Johnson DDS,Croissant,Dessert,3,214.6,643.8,Credit Card,Cancelled,2025-08-15,Batangas
+ORD0988,Rebecca Brooks,Muffin,Pastry,8,437.46,3499.68,Credit Card,Cancelled,2025-09-04,Laguna
+ORD0989,John Charles,Croissant,Cake,8,319.52,2556.16,Credit Card,Cancelled,2025-12-30,Cavite
+ORD0990,Mr. Marcus Murray,Chocolate Cake,Cake,10,282.03,2820.3,Cash,Pending,2025-12-05,Cavite
+ORD0991,Michael Harrell,Banana Bread,Dessert,5,479.65,2398.25,GCash,Pending,2025-07-03,Manila
+ORD0992,Joyce Benson,Donut,Pastry,3,310.8,932.4,GCash,Pending,2025-05-29,Laguna
+ORD0993,Vicki Miller,Cookies,Bread,9,68.07,612.63,Cash,Completed,2025-05-30,Manila
+ORD0994,Tiffany Delgado,Banana Bread,Dessert,3,212.93,638.79,Credit Card,Cancelled,2025-05-14,Cavite
+ORD0995,Elizabeth Jones,Muffin,Pastry,7,344.64,2412.48,Debit Card,Completed,2025-08-25,Batangas
+ORD0996,Erin Turner,Chocolate Cake,Bread,8,181.93,1455.44,Cash,Completed,2026-01-30,Cavite
+ORD0997,Christopher Johnson,Banana Bread,Pastry,2,62.43,124.86,Cash,Cancelled,2026-05-14,Cavite
+ORD0998,Sean Herman,Baguette,Pastry,6,323.91,1943.46,GCash,Cancelled,2025-06-25,Cavite
+ORD0999,Cody Simmons,Cookies,Pastry,2,212.18,424.36,Cash,Cancelled,2026-02-21,Batangas
+ORD1000,Yvonne Wilson,Baguette,Bread,7,136.04,952.28,Credit Card,Pending,2025-08-02,Batangas
